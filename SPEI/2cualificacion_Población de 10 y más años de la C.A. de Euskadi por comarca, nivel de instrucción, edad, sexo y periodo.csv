@@ -1,0 +1,2355 @@
+"Población de 10 y más años de la C.A. de Euskadi por comarca, nivel de instrucción, sexo y periodo"
+
+"comarca";"nivel de instrucción";"sexo";"periodo";Población de 10 y más años de la C.A. de Euskadi
+"C.A. de Euskadi";"Analfabetos";"Hombres";"2010";3274
+"C.A. de Euskadi";"Analfabetos";"Hombres";"2013";2689
+"C.A. de Euskadi";"Analfabetos";"Hombres";"2014";2516
+"C.A. de Euskadi";"Analfabetos";"Hombres";"2015";2430
+"C.A. de Euskadi";"Analfabetos";"Hombres";"2016";2273
+"C.A. de Euskadi";"Analfabetos";"Hombres";"2018";2024
+"C.A. de Euskadi";"Analfabetos";"Hombres";"2019";1916
+"C.A. de Euskadi";"Analfabetos";"Hombres";"2020";1805
+"C.A. de Euskadi";"Analfabetos";"Mujeres";"2010";7364
+"C.A. de Euskadi";"Analfabetos";"Mujeres";"2013";6139
+"C.A. de Euskadi";"Analfabetos";"Mujeres";"2014";5808
+"C.A. de Euskadi";"Analfabetos";"Mujeres";"2015";5513
+"C.A. de Euskadi";"Analfabetos";"Mujeres";"2016";5175
+"C.A. de Euskadi";"Analfabetos";"Mujeres";"2018";4563
+"C.A. de Euskadi";"Analfabetos";"Mujeres";"2019";4278
+"C.A. de Euskadi";"Analfabetos";"Mujeres";"2020";4015
+"C.A. de Euskadi";"Sin estudios";"Hombres";"2010";22447
+"C.A. de Euskadi";"Sin estudios";"Hombres";"2013";19442
+"C.A. de Euskadi";"Sin estudios";"Hombres";"2014";18449
+"C.A. de Euskadi";"Sin estudios";"Hombres";"2015";17853
+"C.A. de Euskadi";"Sin estudios";"Hombres";"2016";16822
+"C.A. de Euskadi";"Sin estudios";"Hombres";"2018";17049
+"C.A. de Euskadi";"Sin estudios";"Hombres";"2019";16275
+"C.A. de Euskadi";"Sin estudios";"Hombres";"2020";16152
+"C.A. de Euskadi";"Sin estudios";"Mujeres";"2010";34300
+"C.A. de Euskadi";"Sin estudios";"Mujeres";"2013";30105
+"C.A. de Euskadi";"Sin estudios";"Mujeres";"2014";28796
+"C.A. de Euskadi";"Sin estudios";"Mujeres";"2015";27856
+"C.A. de Euskadi";"Sin estudios";"Mujeres";"2016";26596
+"C.A. de Euskadi";"Sin estudios";"Mujeres";"2018";25912
+"C.A. de Euskadi";"Sin estudios";"Mujeres";"2019";24986
+"C.A. de Euskadi";"Sin estudios";"Mujeres";"2020";24398
+"C.A. de Euskadi";"Primarios";"Hombres";"2010";327711
+"C.A. de Euskadi";"Primarios";"Hombres";"2013";311456
+"C.A. de Euskadi";"Primarios";"Hombres";"2014";305464
+"C.A. de Euskadi";"Primarios";"Hombres";"2015";301077
+"C.A. de Euskadi";"Primarios";"Hombres";"2016";296691
+"C.A. de Euskadi";"Primarios";"Hombres";"2018";283776
+"C.A. de Euskadi";"Primarios";"Hombres";"2019";274625
+"C.A. de Euskadi";"Primarios";"Hombres";"2020";272417
+"C.A. de Euskadi";"Primarios";"Mujeres";"2010";387914
+"C.A. de Euskadi";"Primarios";"Mujeres";"2013";373110
+"C.A. de Euskadi";"Primarios";"Mujeres";"2014";368183
+"C.A. de Euskadi";"Primarios";"Mujeres";"2015";363680
+"C.A. de Euskadi";"Primarios";"Mujeres";"2016";358046
+"C.A. de Euskadi";"Primarios";"Mujeres";"2018";344745
+"C.A. de Euskadi";"Primarios";"Mujeres";"2019";334826
+"C.A. de Euskadi";"Primarios";"Mujeres";"2020";330365
+"C.A. de Euskadi";"Profesionales";"Hombres";"2010";177863
+"C.A. de Euskadi";"Profesionales";"Hombres";"2013";196494
+"C.A. de Euskadi";"Profesionales";"Hombres";"2014";199939
+"C.A. de Euskadi";"Profesionales";"Hombres";"2015";202159
+"C.A. de Euskadi";"Profesionales";"Hombres";"2016";205827
+"C.A. de Euskadi";"Profesionales";"Hombres";"2018";211960
+"C.A. de Euskadi";"Profesionales";"Hombres";"2019";225166
+"C.A. de Euskadi";"Profesionales";"Hombres";"2020";233184
+"C.A. de Euskadi";"Profesionales";"Mujeres";"2010";123044
+"C.A. de Euskadi";"Profesionales";"Mujeres";"2013";134775
+"C.A. de Euskadi";"Profesionales";"Mujeres";"2014";137086
+"C.A. de Euskadi";"Profesionales";"Mujeres";"2015";139226
+"C.A. de Euskadi";"Profesionales";"Mujeres";"2016";141135
+"C.A. de Euskadi";"Profesionales";"Mujeres";"2018";146334
+"C.A. de Euskadi";"Profesionales";"Mujeres";"2019";156781
+"C.A. de Euskadi";"Profesionales";"Mujeres";"2020";162943
+"C.A. de Euskadi";"Secundarios";"Hombres";"2010";218674
+"C.A. de Euskadi";"Secundarios";"Hombres";"2013";213597
+"C.A. de Euskadi";"Secundarios";"Hombres";"2014";210811
+"C.A. de Euskadi";"Secundarios";"Hombres";"2015";213951
+"C.A. de Euskadi";"Secundarios";"Hombres";"2016";212580
+"C.A. de Euskadi";"Secundarios";"Hombres";"2018";217257
+"C.A. de Euskadi";"Secundarios";"Hombres";"2019";217123
+"C.A. de Euskadi";"Secundarios";"Hombres";"2020";215260
+"C.A. de Euskadi";"Secundarios";"Mujeres";"2010";207261
+"C.A. de Euskadi";"Secundarios";"Mujeres";"2013";209909
+"C.A. de Euskadi";"Secundarios";"Mujeres";"2014";208200
+"C.A. de Euskadi";"Secundarios";"Mujeres";"2015";211685
+"C.A. de Euskadi";"Secundarios";"Mujeres";"2016";211225
+"C.A. de Euskadi";"Secundarios";"Mujeres";"2018";216690
+"C.A. de Euskadi";"Secundarios";"Mujeres";"2019";217485
+"C.A. de Euskadi";"Secundarios";"Mujeres";"2020";217435
+"C.A. de Euskadi";"Medio-superiores";"Hombres";"2010";67565
+"C.A. de Euskadi";"Medio-superiores";"Hombres";"2013";59640
+"C.A. de Euskadi";"Medio-superiores";"Hombres";"2014";58163
+"C.A. de Euskadi";"Medio-superiores";"Hombres";"2015";56754
+"C.A. de Euskadi";"Medio-superiores";"Hombres";"2016";57351
+"C.A. de Euskadi";"Medio-superiores";"Hombres";"2018";55850
+"C.A. de Euskadi";"Medio-superiores";"Hombres";"2019";54619
+"C.A. de Euskadi";"Medio-superiores";"Hombres";"2020";52300
+"C.A. de Euskadi";"Medio-superiores";"Mujeres";"2010";100839
+"C.A. de Euskadi";"Medio-superiores";"Mujeres";"2013";94340
+"C.A. de Euskadi";"Medio-superiores";"Mujeres";"2014";93163
+"C.A. de Euskadi";"Medio-superiores";"Mujeres";"2015";91459
+"C.A. de Euskadi";"Medio-superiores";"Mujeres";"2016";93328
+"C.A. de Euskadi";"Medio-superiores";"Mujeres";"2018";91349
+"C.A. de Euskadi";"Medio-superiores";"Mujeres";"2019";88441
+"C.A. de Euskadi";"Medio-superiores";"Mujeres";"2020";85287
+"C.A. de Euskadi";"Superiores";"Hombres";"2010";138870
+"C.A. de Euskadi";"Superiores";"Hombres";"2013";151401
+"C.A. de Euskadi";"Superiores";"Hombres";"2014";155688
+"C.A. de Euskadi";"Superiores";"Hombres";"2015";156686
+"C.A. de Euskadi";"Superiores";"Hombres";"2016";158616
+"C.A. de Euskadi";"Superiores";"Hombres";"2018";167388
+"C.A. de Euskadi";"Superiores";"Hombres";"2019";171808
+"C.A. de Euskadi";"Superiores";"Hombres";"2020";178516
+"C.A. de Euskadi";"Superiores";"Mujeres";"2010";150921
+"C.A. de Euskadi";"Superiores";"Mujeres";"2013";166965
+"C.A. de Euskadi";"Superiores";"Mujeres";"2014";173060
+"C.A. de Euskadi";"Superiores";"Mujeres";"2015";176047
+"C.A. de Euskadi";"Superiores";"Mujeres";"2016";180992
+"C.A. de Euskadi";"Superiores";"Mujeres";"2018";195320
+"C.A. de Euskadi";"Superiores";"Mujeres";"2019";204265
+"C.A. de Euskadi";"Superiores";"Mujeres";"2020";214967
+"Añana";"Analfabetos";"Hombres";"2010";7
+"Añana";"Analfabetos";"Hombres";"2013";7
+"Añana";"Analfabetos";"Hombres";"2014";7
+"Añana";"Analfabetos";"Hombres";"2015";6
+"Añana";"Analfabetos";"Hombres";"2016";7
+"Añana";"Analfabetos";"Hombres";"2018";4
+"Añana";"Analfabetos";"Hombres";"2019";3
+"Añana";"Analfabetos";"Hombres";"2020";5
+"Añana";"Analfabetos";"Mujeres";"2010";9
+"Añana";"Analfabetos";"Mujeres";"2013";7
+"Añana";"Analfabetos";"Mujeres";"2014";6
+"Añana";"Analfabetos";"Mujeres";"2015";4
+"Añana";"Analfabetos";"Mujeres";"2016";4
+"Añana";"Analfabetos";"Mujeres";"2018";2
+"Añana";"Analfabetos";"Mujeres";"2019";2
+"Añana";"Analfabetos";"Mujeres";"2020";3
+"Añana";"Sin estudios";"Hombres";"2010";46
+"Añana";"Sin estudios";"Hombres";"2013";47
+"Añana";"Sin estudios";"Hombres";"2014";41
+"Añana";"Sin estudios";"Hombres";"2015";37
+"Añana";"Sin estudios";"Hombres";"2016";32
+"Añana";"Sin estudios";"Hombres";"2018";31
+"Añana";"Sin estudios";"Hombres";"2019";36
+"Añana";"Sin estudios";"Hombres";"2020";37
+"Añana";"Sin estudios";"Mujeres";"2010";47
+"Añana";"Sin estudios";"Mujeres";"2013";42
+"Añana";"Sin estudios";"Mujeres";"2014";37
+"Añana";"Sin estudios";"Mujeres";"2015";38
+"Añana";"Sin estudios";"Mujeres";"2016";39
+"Añana";"Sin estudios";"Mujeres";"2018";45
+"Añana";"Sin estudios";"Mujeres";"2019";47
+"Añana";"Sin estudios";"Mujeres";"2020";51
+"Añana";"Primarios";"Hombres";"2010";1236
+"Añana";"Primarios";"Hombres";"2013";1170
+"Añana";"Primarios";"Hombres";"2014";1148
+"Añana";"Primarios";"Hombres";"2015";1134
+"Añana";"Primarios";"Hombres";"2016";1108
+"Añana";"Primarios";"Hombres";"2018";1078
+"Añana";"Primarios";"Hombres";"2019";1063
+"Añana";"Primarios";"Hombres";"2020";1035
+"Añana";"Primarios";"Mujeres";"2010";1109
+"Añana";"Primarios";"Mujeres";"2013";1054
+"Añana";"Primarios";"Mujeres";"2014";1049
+"Añana";"Primarios";"Mujeres";"2015";1039
+"Añana";"Primarios";"Mujeres";"2016";1018
+"Añana";"Primarios";"Mujeres";"2018";1005
+"Añana";"Primarios";"Mujeres";"2019";974
+"Añana";"Primarios";"Mujeres";"2020";955
+"Añana";"Profesionales";"Hombres";"2010";684
+"Añana";"Profesionales";"Hombres";"2013";730
+"Añana";"Profesionales";"Hombres";"2014";766
+"Añana";"Profesionales";"Hombres";"2015";764
+"Añana";"Profesionales";"Hombres";"2016";750
+"Añana";"Profesionales";"Hombres";"2018";791
+"Añana";"Profesionales";"Hombres";"2019";848
+"Añana";"Profesionales";"Hombres";"2020";854
+"Añana";"Profesionales";"Mujeres";"2010";381
+"Añana";"Profesionales";"Mujeres";"2013";420
+"Añana";"Profesionales";"Mujeres";"2014";412
+"Añana";"Profesionales";"Mujeres";"2015";426
+"Añana";"Profesionales";"Mujeres";"2016";409
+"Añana";"Profesionales";"Mujeres";"2018";446
+"Añana";"Profesionales";"Mujeres";"2019";467
+"Añana";"Profesionales";"Mujeres";"2020";492
+"Añana";"Secundarios";"Hombres";"2010";538
+"Añana";"Secundarios";"Hombres";"2013";580
+"Añana";"Secundarios";"Hombres";"2014";585
+"Añana";"Secundarios";"Hombres";"2015";598
+"Añana";"Secundarios";"Hombres";"2016";612
+"Añana";"Secundarios";"Hombres";"2018";670
+"Añana";"Secundarios";"Hombres";"2019";657
+"Añana";"Secundarios";"Hombres";"2020";652
+"Añana";"Secundarios";"Mujeres";"2010";423
+"Añana";"Secundarios";"Mujeres";"2013";452
+"Añana";"Secundarios";"Mujeres";"2014";467
+"Añana";"Secundarios";"Mujeres";"2015";464
+"Añana";"Secundarios";"Mujeres";"2016";469
+"Añana";"Secundarios";"Mujeres";"2018";516
+"Añana";"Secundarios";"Mujeres";"2019";497
+"Añana";"Secundarios";"Mujeres";"2020";531
+"Añana";"Medio-superiores";"Hombres";"2010";154
+"Añana";"Medio-superiores";"Hombres";"2013";141
+"Añana";"Medio-superiores";"Hombres";"2014";138
+"Añana";"Medio-superiores";"Hombres";"2015";134
+"Añana";"Medio-superiores";"Hombres";"2016";143
+"Añana";"Medio-superiores";"Hombres";"2018";149
+"Añana";"Medio-superiores";"Hombres";"2019";136
+"Añana";"Medio-superiores";"Hombres";"2020";135
+"Añana";"Medio-superiores";"Mujeres";"2010";216
+"Añana";"Medio-superiores";"Mujeres";"2013";212
+"Añana";"Medio-superiores";"Mujeres";"2014";215
+"Añana";"Medio-superiores";"Mujeres";"2015";209
+"Añana";"Medio-superiores";"Mujeres";"2016";210
+"Añana";"Medio-superiores";"Mujeres";"2018";217
+"Añana";"Medio-superiores";"Mujeres";"2019";209
+"Añana";"Medio-superiores";"Mujeres";"2020";206
+"Añana";"Superiores";"Hombres";"2010";277
+"Añana";"Superiores";"Hombres";"2013";289
+"Añana";"Superiores";"Hombres";"2014";294
+"Añana";"Superiores";"Hombres";"2015";289
+"Añana";"Superiores";"Hombres";"2016";305
+"Añana";"Superiores";"Hombres";"2018";320
+"Añana";"Superiores";"Hombres";"2019";340
+"Añana";"Superiores";"Hombres";"2020";369
+"Añana";"Superiores";"Mujeres";"2010";240
+"Añana";"Superiores";"Mujeres";"2013";249
+"Añana";"Superiores";"Mujeres";"2014";263
+"Añana";"Superiores";"Mujeres";"2015";266
+"Añana";"Superiores";"Mujeres";"2016";287
+"Añana";"Superiores";"Mujeres";"2018";307
+"Añana";"Superiores";"Mujeres";"2019";337
+"Añana";"Superiores";"Mujeres";"2020";369
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Hombres";"2010";200
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Hombres";"2013";190
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Hombres";"2014";179
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Hombres";"2015";177
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Hombres";"2016";167
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Hombres";"2018";152
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Hombres";"2019";143
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Hombres";"2020";144
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Mujeres";"2010";523
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Mujeres";"2013";469
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Mujeres";"2014";460
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Mujeres";"2015";448
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Mujeres";"2016";432
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Mujeres";"2018";385
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Mujeres";"2019";370
+"Arabako Lautada / Llanada Alavesa";"Analfabetos";"Mujeres";"2020";349
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Hombres";"2010";2352
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Hombres";"2013";2009
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Hombres";"2014";1929
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Hombres";"2015";1871
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Hombres";"2016";1788
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Hombres";"2018";1936
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Hombres";"2019";1868
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Hombres";"2020";1867
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Mujeres";"2010";3172
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Mujeres";"2013";2786
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Mujeres";"2014";2692
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Mujeres";"2015";2626
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Mujeres";"2016";2514
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Mujeres";"2018";2618
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Mujeres";"2019";2518
+"Arabako Lautada / Llanada Alavesa";"Sin estudios";"Mujeres";"2020";2507
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Hombres";"2010";40044
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Hombres";"2013";37425
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Hombres";"2014";36659
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Hombres";"2015";36343
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Hombres";"2016";36048
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Hombres";"2018";34565
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Hombres";"2019";33705
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Hombres";"2020";33740
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Mujeres";"2010";42854
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Mujeres";"2013";41394
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Mujeres";"2014";41042
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Mujeres";"2015";40759
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Mujeres";"2016";40385
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Mujeres";"2018";39269
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Mujeres";"2019";38283
+"Arabako Lautada / Llanada Alavesa";"Primarios";"Mujeres";"2020";38216
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Hombres";"2010";19512
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Hombres";"2013";22183
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Hombres";"2014";22580
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Hombres";"2015";22833
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Hombres";"2016";23341
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Hombres";"2018";24171
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Hombres";"2019";25932
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Hombres";"2020";26740
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Mujeres";"2010";14048
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Mujeres";"2013";15762
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Mujeres";"2014";16118
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Mujeres";"2015";16442
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Mujeres";"2016";16786
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Mujeres";"2018";17549
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Mujeres";"2019";19115
+"Arabako Lautada / Llanada Alavesa";"Profesionales";"Mujeres";"2020";19859
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Hombres";"2010";28066
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Hombres";"2013";26988
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Hombres";"2014";26594
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Hombres";"2015";27090
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Hombres";"2016";26857
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Hombres";"2018";27439
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Hombres";"2019";27620
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Hombres";"2020";27420
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Mujeres";"2010";26598
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Mujeres";"2013";26909
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Mujeres";"2014";26741
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Mujeres";"2015";27240
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Mujeres";"2016";27189
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Mujeres";"2018";27744
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Mujeres";"2019";27904
+"Arabako Lautada / Llanada Alavesa";"Secundarios";"Mujeres";"2020";27841
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Hombres";"2010";8259
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Hombres";"2013";7301
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Hombres";"2014";7164
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Hombres";"2015";7034
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Hombres";"2016";7063
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Hombres";"2018";6880
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Hombres";"2019";6762
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Hombres";"2020";6471
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Mujeres";"2010";12490
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Mujeres";"2013";11664
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Mujeres";"2014";11563
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Mujeres";"2015";11427
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Mujeres";"2016";11692
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Mujeres";"2018";11439
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Mujeres";"2019";10934
+"Arabako Lautada / Llanada Alavesa";"Medio-superiores";"Mujeres";"2020";10506
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Hombres";"2010";14868
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Hombres";"2013";16676
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Hombres";"2014";17088
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Hombres";"2015";17330
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Hombres";"2016";17424
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Hombres";"2018";18370
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Hombres";"2019";18954
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Hombres";"2020";19767
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Mujeres";"2010";16505
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Mujeres";"2013";18516
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Mujeres";"2014";19216
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Mujeres";"2015";19633
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Mujeres";"2016";20125
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Mujeres";"2018";21846
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Mujeres";"2019";23079
+"Arabako Lautada / Llanada Alavesa";"Superiores";"Mujeres";"2020";24402
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Hombres";"2010";1
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Hombres";"2013";2
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Hombres";"2014";2
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Hombres";"2015";4
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Hombres";"2016";3
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Hombres";"2018";3
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Hombres";"2019";4
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Hombres";"2020";2
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Mujeres";"2010";2
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Mujeres";"2013";3
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Mujeres";"2014";3
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Mujeres";"2015";3
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Mujeres";"2016";2
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Mujeres";"2018";1
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Mujeres";"2019";1
+"Arabako Mendialdea / Montaña Alavesa";"Analfabetos";"Mujeres";"2020";2
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Hombres";"2010";12
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Hombres";"2013";17
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Hombres";"2014";13
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Hombres";"2015";10
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Hombres";"2016";11
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Hombres";"2018";14
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Hombres";"2019";13
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Hombres";"2020";14
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Mujeres";"2010";18
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Mujeres";"2013";22
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Mujeres";"2014";18
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Mujeres";"2015";18
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Mujeres";"2016";14
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Mujeres";"2018";16
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Mujeres";"2019";14
+"Arabako Mendialdea / Montaña Alavesa";"Sin estudios";"Mujeres";"2020";14
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Hombres";"2010";855
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Hombres";"2013";783
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Hombres";"2014";742
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Hombres";"2015";718
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Hombres";"2016";699
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Hombres";"2018";680
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Hombres";"2019";655
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Hombres";"2020";644
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Mujeres";"2010";730
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Mujeres";"2013";649
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Mujeres";"2014";610
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Mujeres";"2015";574
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Mujeres";"2016";577
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Mujeres";"2018";538
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Mujeres";"2019";522
+"Arabako Mendialdea / Montaña Alavesa";"Primarios";"Mujeres";"2020";492
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Hombres";"2010";326
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Hombres";"2013";351
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Hombres";"2014";348
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Hombres";"2015";355
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Hombres";"2016";359
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Hombres";"2018";365
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Hombres";"2019";365
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Hombres";"2020";374
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Mujeres";"2010";155
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Mujeres";"2013";187
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Mujeres";"2014";190
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Mujeres";"2015";198
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Mujeres";"2016";198
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Mujeres";"2018";198
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Mujeres";"2019";204
+"Arabako Mendialdea / Montaña Alavesa";"Profesionales";"Mujeres";"2020";225
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Hombres";"2010";280
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Hombres";"2013";284
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Hombres";"2014";275
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Hombres";"2015";291
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Hombres";"2016";288
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Hombres";"2018";307
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Hombres";"2019";315
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Hombres";"2020";325
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Mujeres";"2010";206
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Mujeres";"2013";203
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Mujeres";"2014";197
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Mujeres";"2015";191
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Mujeres";"2016";187
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Mujeres";"2018";197
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Mujeres";"2019";206
+"Arabako Mendialdea / Montaña Alavesa";"Secundarios";"Mujeres";"2020";215
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Hombres";"2010";60
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Hombres";"2013";58
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Hombres";"2014";60
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Hombres";"2015";57
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Hombres";"2016";59
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Hombres";"2018";64
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Hombres";"2019";63
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Hombres";"2020";64
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Mujeres";"2010";116
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Mujeres";"2013";101
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Mujeres";"2014";96
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Mujeres";"2015";100
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Mujeres";"2016";104
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Mujeres";"2018";115
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Mujeres";"2019";102
+"Arabako Mendialdea / Montaña Alavesa";"Medio-superiores";"Mujeres";"2020";94
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Hombres";"2010";121
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Hombres";"2013";126
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Hombres";"2014";128
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Hombres";"2015";117
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Hombres";"2016";121
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Hombres";"2018";126
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Hombres";"2019";139
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Hombres";"2020";158
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Mujeres";"2010";117
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Mujeres";"2013";126
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Mujeres";"2014";130
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Mujeres";"2015";132
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Mujeres";"2016";130
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Mujeres";"2018";152
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Mujeres";"2019";179
+"Arabako Mendialdea / Montaña Alavesa";"Superiores";"Mujeres";"2020";181
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Hombres";"2010";47
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Hombres";"2013";36
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Hombres";"2014";32
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Hombres";"2015";31
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Hombres";"2016";30
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Hombres";"2018";26
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Hombres";"2019";22
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Hombres";"2020";20
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Mujeres";"2010";73
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Mujeres";"2013";62
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Mujeres";"2014";58
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Mujeres";"2015";54
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Mujeres";"2016";46
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Mujeres";"2018";38
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Mujeres";"2019";41
+"Arratia Nerbioi / Arratia-Nervión";"Analfabetos";"Mujeres";"2020";37
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Hombres";"2010";185
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Hombres";"2013";148
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Hombres";"2014";146
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Hombres";"2015";147
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Hombres";"2016";140
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Hombres";"2018";133
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Hombres";"2019";140
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Hombres";"2020";135
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Mujeres";"2010";266
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Mujeres";"2013";223
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Mujeres";"2014";215
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Mujeres";"2015";222
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Mujeres";"2016";201
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Mujeres";"2018";196
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Mujeres";"2019";183
+"Arratia Nerbioi / Arratia-Nervión";"Sin estudios";"Mujeres";"2020";175
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Hombres";"2010";3887
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Hombres";"2013";3727
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Hombres";"2014";3613
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Hombres";"2015";3501
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Hombres";"2016";3435
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Hombres";"2018";3304
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Hombres";"2019";3236
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Hombres";"2020";3182
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Mujeres";"2010";4292
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Mujeres";"2013";4190
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Mujeres";"2014";4060
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Mujeres";"2015";4028
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Mujeres";"2016";3960
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Mujeres";"2018";3794
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Mujeres";"2019";3649
+"Arratia Nerbioi / Arratia-Nervión";"Primarios";"Mujeres";"2020";3626
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Hombres";"2010";2445
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Hombres";"2013";2739
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Hombres";"2014";2820
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Hombres";"2015";2845
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Hombres";"2016";2872
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Hombres";"2018";2957
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Hombres";"2019";3131
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Hombres";"2020";3228
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Mujeres";"2010";1325
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Mujeres";"2013";1514
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Mujeres";"2014";1530
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Mujeres";"2015";1549
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Mujeres";"2016";1547
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Mujeres";"2018";1598
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Mujeres";"2019";1715
+"Arratia Nerbioi / Arratia-Nervión";"Profesionales";"Mujeres";"2020";1766
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Hombres";"2010";2258
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Hombres";"2013";2214
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Hombres";"2014";2200
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Hombres";"2015";2233
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Hombres";"2016";2227
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Hombres";"2018";2359
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Hombres";"2019";2313
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Hombres";"2020";2289
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Mujeres";"2010";1887
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Mujeres";"2013";1947
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Mujeres";"2014";1978
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Mujeres";"2015";2014
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Mujeres";"2016";2032
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Mujeres";"2018";2067
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Mujeres";"2019";2085
+"Arratia Nerbioi / Arratia-Nervión";"Secundarios";"Mujeres";"2020";2073
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Hombres";"2010";632
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Hombres";"2013";573
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Hombres";"2014";556
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Hombres";"2015";557
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Hombres";"2016";559
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Hombres";"2018";569
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Hombres";"2019";547
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Hombres";"2020";516
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Mujeres";"2010";1145
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Mujeres";"2013";1080
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Mujeres";"2014";1075
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Mujeres";"2015";1067
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Mujeres";"2016";1094
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Mujeres";"2018";1058
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Mujeres";"2019";1013
+"Arratia Nerbioi / Arratia-Nervión";"Medio-superiores";"Mujeres";"2020";985
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Hombres";"2010";1095
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Hombres";"2013";1206
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Hombres";"2014";1262
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Hombres";"2015";1259
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Hombres";"2016";1287
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Hombres";"2018";1355
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Hombres";"2019";1430
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Hombres";"2020";1514
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Mujeres";"2010";1396
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Mujeres";"2013";1618
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Mujeres";"2014";1678
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Mujeres";"2015";1699
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Mujeres";"2016";1738
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Mujeres";"2018";1889
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Mujeres";"2019";1981
+"Arratia Nerbioi / Arratia-Nervión";"Superiores";"Mujeres";"2020";2094
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Hombres";"2010";114
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Hombres";"2013";105
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Hombres";"2014";103
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Hombres";"2015";96
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Hombres";"2016";96
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Hombres";"2018";84
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Hombres";"2019";78
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Hombres";"2020";74
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Mujeres";"2010";266
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Mujeres";"2013";210
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Mujeres";"2014";201
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Mujeres";"2015";194
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Mujeres";"2016";181
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Mujeres";"2018";162
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Mujeres";"2019";149
+"Bidasoa Beherea / Bajo Bidasoa";"Analfabetos";"Mujeres";"2020";145
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Hombres";"2010";517
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Hombres";"2013";504
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Hombres";"2014";467
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Hombres";"2015";474
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Hombres";"2016";460
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Hombres";"2018";484
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Hombres";"2019";459
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Hombres";"2020";490
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Mujeres";"2010";833
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Mujeres";"2013";749
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Mujeres";"2014";731
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Mujeres";"2015";719
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Mujeres";"2016";704
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Mujeres";"2018";707
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Mujeres";"2019";684
+"Bidasoa Beherea / Bajo Bidasoa";"Sin estudios";"Mujeres";"2020";699
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Hombres";"2010";11134
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Hombres";"2013";10637
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Hombres";"2014";10564
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Hombres";"2015";10515
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Hombres";"2016";10452
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Hombres";"2018";9983
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Hombres";"2019";9693
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Hombres";"2020";9724
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Mujeres";"2010";13224
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Mujeres";"2013";12716
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Mujeres";"2014";12607
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Mujeres";"2015";12606
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Mujeres";"2016";12493
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Mujeres";"2018";12049
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Mujeres";"2019";11649
+"Bidasoa Beherea / Bajo Bidasoa";"Primarios";"Mujeres";"2020";11484
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Hombres";"2010";7136
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Hombres";"2013";7641
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Hombres";"2014";7732
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Hombres";"2015";7805
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Hombres";"2016";7978
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Hombres";"2018";8167
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Hombres";"2019";8670
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Hombres";"2020";8858
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Mujeres";"2010";4510
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Mujeres";"2013";4837
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Mujeres";"2014";4926
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Mujeres";"2015";5019
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Mujeres";"2016";5087
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Mujeres";"2018";5311
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Mujeres";"2019";5726
+"Bidasoa Beherea / Bajo Bidasoa";"Profesionales";"Mujeres";"2020";6014
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Hombres";"2010";7980
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Hombres";"2013";7899
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Hombres";"2014";7843
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Hombres";"2015";8029
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Hombres";"2016";8036
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Hombres";"2018";8099
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Hombres";"2019";8080
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Hombres";"2020";8001
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Mujeres";"2010";8145
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Mujeres";"2013";8274
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Mujeres";"2014";8303
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Mujeres";"2015";8438
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Mujeres";"2016";8412
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Mujeres";"2018";8597
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Mujeres";"2019";8659
+"Bidasoa Beherea / Bajo Bidasoa";"Secundarios";"Mujeres";"2020";8639
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Hombres";"2010";2305
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Hombres";"2013";1986
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Hombres";"2014";1947
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Hombres";"2015";1902
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Hombres";"2016";1879
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Hombres";"2018";1827
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Hombres";"2019";1809
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Hombres";"2020";1719
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Mujeres";"2010";3391
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Mujeres";"2013";3191
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Mujeres";"2014";3147
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Mujeres";"2015";3096
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Mujeres";"2016";3167
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Mujeres";"2018";3080
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Mujeres";"2019";2992
+"Bidasoa Beherea / Bajo Bidasoa";"Medio-superiores";"Mujeres";"2020";2877
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Hombres";"2010";4281
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Hombres";"2013";4609
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Hombres";"2014";4802
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Hombres";"2015";4814
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Hombres";"2016";4850
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Hombres";"2018";5166
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Hombres";"2019";5222
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Hombres";"2020";5455
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Mujeres";"2010";4679
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Mujeres";"2013";5094
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Mujeres";"2014";5249
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Mujeres";"2015";5308
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Mujeres";"2016";5519
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Mujeres";"2018";5934
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Mujeres";"2019";6192
+"Bidasoa Beherea / Bajo Bidasoa";"Superiores";"Mujeres";"2020";6470
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Hombres";"2010";1329
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Hombres";"2013";1062
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Hombres";"2014";981
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Hombres";"2015";928
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Hombres";"2016";865
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Hombres";"2018";768
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Hombres";"2019";722
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Hombres";"2020";684
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Mujeres";"2010";3531
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Mujeres";"2013";2963
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Mujeres";"2014";2777
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Mujeres";"2015";2606
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Mujeres";"2016";2434
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Mujeres";"2018";2152
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Mujeres";"2019";2007
+"Bilbo Handia / Gran Bilbao";"Analfabetos";"Mujeres";"2020";1866
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Hombres";"2010";10041
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Hombres";"2013";8557
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Hombres";"2014";8091
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Hombres";"2015";7755
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Hombres";"2016";7280
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Hombres";"2018";7230
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Hombres";"2019";6826
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Hombres";"2020";6788
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Mujeres";"2010";15878
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Mujeres";"2013";13920
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Mujeres";"2014";13277
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Mujeres";"2015";12785
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Mujeres";"2016";12195
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Mujeres";"2018";11649
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Mujeres";"2019";11236
+"Bilbo Handia / Gran Bilbao";"Sin estudios";"Mujeres";"2020";10888
+"Bilbo Handia / Gran Bilbao";"Primarios";"Hombres";"2010";124990
+"Bilbo Handia / Gran Bilbao";"Primarios";"Hombres";"2013";118354
+"Bilbo Handia / Gran Bilbao";"Primarios";"Hombres";"2014";115627
+"Bilbo Handia / Gran Bilbao";"Primarios";"Hombres";"2015";113618
+"Bilbo Handia / Gran Bilbao";"Primarios";"Hombres";"2016";111851
+"Bilbo Handia / Gran Bilbao";"Primarios";"Hombres";"2018";106698
+"Bilbo Handia / Gran Bilbao";"Primarios";"Hombres";"2019";102586
+"Bilbo Handia / Gran Bilbao";"Primarios";"Hombres";"2020";101701
+"Bilbo Handia / Gran Bilbao";"Primarios";"Mujeres";"2010";157995
+"Bilbo Handia / Gran Bilbao";"Primarios";"Mujeres";"2013";151468
+"Bilbo Handia / Gran Bilbao";"Primarios";"Mujeres";"2014";149136
+"Bilbo Handia / Gran Bilbao";"Primarios";"Mujeres";"2015";146964
+"Bilbo Handia / Gran Bilbao";"Primarios";"Mujeres";"2016";144448
+"Bilbo Handia / Gran Bilbao";"Primarios";"Mujeres";"2018";138586
+"Bilbo Handia / Gran Bilbao";"Primarios";"Mujeres";"2019";134260
+"Bilbo Handia / Gran Bilbao";"Primarios";"Mujeres";"2020";132389
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Hombres";"2010";64550
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Hombres";"2013";70298
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Hombres";"2014";71401
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Hombres";"2015";71958
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Hombres";"2016";73077
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Hombres";"2018";74918
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Hombres";"2019";80023
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Hombres";"2020";83237
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Mujeres";"2010";48748
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Mujeres";"2013";52484
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Mujeres";"2014";53249
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Mujeres";"2015";53931
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Mujeres";"2016";54658
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Mujeres";"2018";56332
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Mujeres";"2019";60462
+"Bilbo Handia / Gran Bilbao";"Profesionales";"Mujeres";"2020";62922
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Hombres";"2010";88836
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Hombres";"2013";86186
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Hombres";"2014";84499
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Hombres";"2015";85514
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Hombres";"2016";84602
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Hombres";"2018";86267
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Hombres";"2019";85815
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Hombres";"2020";85113
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Mujeres";"2010";85492
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Mujeres";"2013";85829
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Mujeres";"2014";84473
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Mujeres";"2015";85639
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Mujeres";"2016";85245
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Mujeres";"2018";87424
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Mujeres";"2019";87478
+"Bilbo Handia / Gran Bilbao";"Secundarios";"Mujeres";"2020";87409
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Hombres";"2010";27749
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Hombres";"2013";24350
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Hombres";"2014";23645
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Hombres";"2015";22974
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Hombres";"2016";23277
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Hombres";"2018";22617
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Hombres";"2019";22113
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Hombres";"2020";21173
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Mujeres";"2010";40469
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Mujeres";"2013";37793
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Mujeres";"2014";37172
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Mujeres";"2015";36429
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Mujeres";"2016";37072
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Mujeres";"2018";36338
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Mujeres";"2019";35226
+"Bilbo Handia / Gran Bilbao";"Medio-superiores";"Mujeres";"2020";34219
+"Bilbo Handia / Gran Bilbao";"Superiores";"Hombres";"2010";64140
+"Bilbo Handia / Gran Bilbao";"Superiores";"Hombres";"2013";68025
+"Bilbo Handia / Gran Bilbao";"Superiores";"Hombres";"2014";69636
+"Bilbo Handia / Gran Bilbao";"Superiores";"Hombres";"2015";69688
+"Bilbo Handia / Gran Bilbao";"Superiores";"Hombres";"2016";70456
+"Bilbo Handia / Gran Bilbao";"Superiores";"Hombres";"2018";73545
+"Bilbo Handia / Gran Bilbao";"Superiores";"Hombres";"2019";75229
+"Bilbo Handia / Gran Bilbao";"Superiores";"Hombres";"2020";77799
+"Bilbo Handia / Gran Bilbao";"Superiores";"Mujeres";"2010";66247
+"Bilbo Handia / Gran Bilbao";"Superiores";"Mujeres";"2013";71294
+"Bilbo Handia / Gran Bilbao";"Superiores";"Mujeres";"2014";73517
+"Bilbo Handia / Gran Bilbao";"Superiores";"Mujeres";"2015";74474
+"Bilbo Handia / Gran Bilbao";"Superiores";"Mujeres";"2016";76087
+"Bilbo Handia / Gran Bilbao";"Superiores";"Mujeres";"2018";81344
+"Bilbo Handia / Gran Bilbao";"Superiores";"Mujeres";"2019";84711
+"Bilbo Handia / Gran Bilbao";"Superiores";"Mujeres";"2020";88750
+"Debabarrena / Bajo Deba";"Analfabetos";"Hombres";"2010";124
+"Debabarrena / Bajo Deba";"Analfabetos";"Hombres";"2013";99
+"Debabarrena / Bajo Deba";"Analfabetos";"Hombres";"2014";89
+"Debabarrena / Bajo Deba";"Analfabetos";"Hombres";"2015";100
+"Debabarrena / Bajo Deba";"Analfabetos";"Hombres";"2016";90
+"Debabarrena / Bajo Deba";"Analfabetos";"Hombres";"2018";75
+"Debabarrena / Bajo Deba";"Analfabetos";"Hombres";"2019";67
+"Debabarrena / Bajo Deba";"Analfabetos";"Hombres";"2020";65
+"Debabarrena / Bajo Deba";"Analfabetos";"Mujeres";"2010";247
+"Debabarrena / Bajo Deba";"Analfabetos";"Mujeres";"2013";194
+"Debabarrena / Bajo Deba";"Analfabetos";"Mujeres";"2014";187
+"Debabarrena / Bajo Deba";"Analfabetos";"Mujeres";"2015";170
+"Debabarrena / Bajo Deba";"Analfabetos";"Mujeres";"2016";157
+"Debabarrena / Bajo Deba";"Analfabetos";"Mujeres";"2018";137
+"Debabarrena / Bajo Deba";"Analfabetos";"Mujeres";"2019";124
+"Debabarrena / Bajo Deba";"Analfabetos";"Mujeres";"2020";120
+"Debabarrena / Bajo Deba";"Sin estudios";"Hombres";"2010";619
+"Debabarrena / Bajo Deba";"Sin estudios";"Hombres";"2013";551
+"Debabarrena / Bajo Deba";"Sin estudios";"Hombres";"2014";525
+"Debabarrena / Bajo Deba";"Sin estudios";"Hombres";"2015";522
+"Debabarrena / Bajo Deba";"Sin estudios";"Hombres";"2016";487
+"Debabarrena / Bajo Deba";"Sin estudios";"Hombres";"2018";492
+"Debabarrena / Bajo Deba";"Sin estudios";"Hombres";"2019";473
+"Debabarrena / Bajo Deba";"Sin estudios";"Hombres";"2020";482
+"Debabarrena / Bajo Deba";"Sin estudios";"Mujeres";"2010";999
+"Debabarrena / Bajo Deba";"Sin estudios";"Mujeres";"2013";904
+"Debabarrena / Bajo Deba";"Sin estudios";"Mujeres";"2014";853
+"Debabarrena / Bajo Deba";"Sin estudios";"Mujeres";"2015";822
+"Debabarrena / Bajo Deba";"Sin estudios";"Mujeres";"2016";787
+"Debabarrena / Bajo Deba";"Sin estudios";"Mujeres";"2018";748
+"Debabarrena / Bajo Deba";"Sin estudios";"Mujeres";"2019";741
+"Debabarrena / Bajo Deba";"Sin estudios";"Mujeres";"2020";732
+"Debabarrena / Bajo Deba";"Primarios";"Hombres";"2010";9239
+"Debabarrena / Bajo Deba";"Primarios";"Hombres";"2013";8894
+"Debabarrena / Bajo Deba";"Primarios";"Hombres";"2014";8795
+"Debabarrena / Bajo Deba";"Primarios";"Hombres";"2015";8618
+"Debabarrena / Bajo Deba";"Primarios";"Hombres";"2016";8522
+"Debabarrena / Bajo Deba";"Primarios";"Hombres";"2018";8180
+"Debabarrena / Bajo Deba";"Primarios";"Hombres";"2019";7950
+"Debabarrena / Bajo Deba";"Primarios";"Hombres";"2020";7804
+"Debabarrena / Bajo Deba";"Primarios";"Mujeres";"2010";10838
+"Debabarrena / Bajo Deba";"Primarios";"Mujeres";"2013";10451
+"Debabarrena / Bajo Deba";"Primarios";"Mujeres";"2014";10287
+"Debabarrena / Bajo Deba";"Primarios";"Mujeres";"2015";10167
+"Debabarrena / Bajo Deba";"Primarios";"Mujeres";"2016";10017
+"Debabarrena / Bajo Deba";"Primarios";"Mujeres";"2018";9704
+"Debabarrena / Bajo Deba";"Primarios";"Mujeres";"2019";9328
+"Debabarrena / Bajo Deba";"Primarios";"Mujeres";"2020";9199
+"Debabarrena / Bajo Deba";"Profesionales";"Hombres";"2010";5596
+"Debabarrena / Bajo Deba";"Profesionales";"Hombres";"2013";6019
+"Debabarrena / Bajo Deba";"Profesionales";"Hombres";"2014";6142
+"Debabarrena / Bajo Deba";"Profesionales";"Hombres";"2015";6184
+"Debabarrena / Bajo Deba";"Profesionales";"Hombres";"2016";6254
+"Debabarrena / Bajo Deba";"Profesionales";"Hombres";"2018";6459
+"Debabarrena / Bajo Deba";"Profesionales";"Hombres";"2019";6806
+"Debabarrena / Bajo Deba";"Profesionales";"Hombres";"2020";7032
+"Debabarrena / Bajo Deba";"Profesionales";"Mujeres";"2010";3352
+"Debabarrena / Bajo Deba";"Profesionales";"Mujeres";"2013";3591
+"Debabarrena / Bajo Deba";"Profesionales";"Mujeres";"2014";3690
+"Debabarrena / Bajo Deba";"Profesionales";"Mujeres";"2015";3757
+"Debabarrena / Bajo Deba";"Profesionales";"Mujeres";"2016";3789
+"Debabarrena / Bajo Deba";"Profesionales";"Mujeres";"2018";4012
+"Debabarrena / Bajo Deba";"Profesionales";"Mujeres";"2019";4296
+"Debabarrena / Bajo Deba";"Profesionales";"Mujeres";"2020";4472
+"Debabarrena / Bajo Deba";"Secundarios";"Hombres";"2010";4768
+"Debabarrena / Bajo Deba";"Secundarios";"Hombres";"2013";4598
+"Debabarrena / Bajo Deba";"Secundarios";"Hombres";"2014";4582
+"Debabarrena / Bajo Deba";"Secundarios";"Hombres";"2015";4625
+"Debabarrena / Bajo Deba";"Secundarios";"Hombres";"2016";4626
+"Debabarrena / Bajo Deba";"Secundarios";"Hombres";"2018";4789
+"Debabarrena / Bajo Deba";"Secundarios";"Hombres";"2019";4813
+"Debabarrena / Bajo Deba";"Secundarios";"Hombres";"2020";4786
+"Debabarrena / Bajo Deba";"Secundarios";"Mujeres";"2010";4553
+"Debabarrena / Bajo Deba";"Secundarios";"Mujeres";"2013";4676
+"Debabarrena / Bajo Deba";"Secundarios";"Mujeres";"2014";4675
+"Debabarrena / Bajo Deba";"Secundarios";"Mujeres";"2015";4799
+"Debabarrena / Bajo Deba";"Secundarios";"Mujeres";"2016";4841
+"Debabarrena / Bajo Deba";"Secundarios";"Mujeres";"2018";4937
+"Debabarrena / Bajo Deba";"Secundarios";"Mujeres";"2019";5036
+"Debabarrena / Bajo Deba";"Secundarios";"Mujeres";"2020";5052
+"Debabarrena / Bajo Deba";"Medio-superiores";"Hombres";"2010";1678
+"Debabarrena / Bajo Deba";"Medio-superiores";"Hombres";"2013";1462
+"Debabarrena / Bajo Deba";"Medio-superiores";"Hombres";"2014";1428
+"Debabarrena / Bajo Deba";"Medio-superiores";"Hombres";"2015";1412
+"Debabarrena / Bajo Deba";"Medio-superiores";"Hombres";"2016";1404
+"Debabarrena / Bajo Deba";"Medio-superiores";"Hombres";"2018";1372
+"Debabarrena / Bajo Deba";"Medio-superiores";"Hombres";"2019";1331
+"Debabarrena / Bajo Deba";"Medio-superiores";"Hombres";"2020";1253
+"Debabarrena / Bajo Deba";"Medio-superiores";"Mujeres";"2010";2180
+"Debabarrena / Bajo Deba";"Medio-superiores";"Mujeres";"2013";2009
+"Debabarrena / Bajo Deba";"Medio-superiores";"Mujeres";"2014";1982
+"Debabarrena / Bajo Deba";"Medio-superiores";"Mujeres";"2015";1959
+"Debabarrena / Bajo Deba";"Medio-superiores";"Mujeres";"2016";1991
+"Debabarrena / Bajo Deba";"Medio-superiores";"Mujeres";"2018";1949
+"Debabarrena / Bajo Deba";"Medio-superiores";"Mujeres";"2019";1902
+"Debabarrena / Bajo Deba";"Medio-superiores";"Mujeres";"2020";1822
+"Debabarrena / Bajo Deba";"Superiores";"Hombres";"2010";2426
+"Debabarrena / Bajo Deba";"Superiores";"Hombres";"2013";2788
+"Debabarrena / Bajo Deba";"Superiores";"Hombres";"2014";2856
+"Debabarrena / Bajo Deba";"Superiores";"Hombres";"2015";2910
+"Debabarrena / Bajo Deba";"Superiores";"Hombres";"2016";2952
+"Debabarrena / Bajo Deba";"Superiores";"Hombres";"2018";3183
+"Debabarrena / Bajo Deba";"Superiores";"Hombres";"2019";3258
+"Debabarrena / Bajo Deba";"Superiores";"Hombres";"2020";3402
+"Debabarrena / Bajo Deba";"Superiores";"Mujeres";"2010";2968
+"Debabarrena / Bajo Deba";"Superiores";"Mujeres";"2013";3365
+"Debabarrena / Bajo Deba";"Superiores";"Mujeres";"2014";3509
+"Debabarrena / Bajo Deba";"Superiores";"Mujeres";"2015";3586
+"Debabarrena / Bajo Deba";"Superiores";"Mujeres";"2016";3682
+"Debabarrena / Bajo Deba";"Superiores";"Mujeres";"2018";4054
+"Debabarrena / Bajo Deba";"Superiores";"Mujeres";"2019";4198
+"Debabarrena / Bajo Deba";"Superiores";"Mujeres";"2020";4423
+"Debagoiena / Alto Deba";"Analfabetos";"Hombres";"2010";128
+"Debagoiena / Alto Deba";"Analfabetos";"Hombres";"2013";110
+"Debagoiena / Alto Deba";"Analfabetos";"Hombres";"2014";98
+"Debagoiena / Alto Deba";"Analfabetos";"Hombres";"2015";88
+"Debagoiena / Alto Deba";"Analfabetos";"Hombres";"2016";81
+"Debagoiena / Alto Deba";"Analfabetos";"Hombres";"2018";70
+"Debagoiena / Alto Deba";"Analfabetos";"Hombres";"2019";65
+"Debagoiena / Alto Deba";"Analfabetos";"Hombres";"2020";63
+"Debagoiena / Alto Deba";"Analfabetos";"Mujeres";"2010";224
+"Debagoiena / Alto Deba";"Analfabetos";"Mujeres";"2013";177
+"Debagoiena / Alto Deba";"Analfabetos";"Mujeres";"2014";169
+"Debagoiena / Alto Deba";"Analfabetos";"Mujeres";"2015";167
+"Debagoiena / Alto Deba";"Analfabetos";"Mujeres";"2016";156
+"Debagoiena / Alto Deba";"Analfabetos";"Mujeres";"2018";132
+"Debagoiena / Alto Deba";"Analfabetos";"Mujeres";"2019";127
+"Debagoiena / Alto Deba";"Analfabetos";"Mujeres";"2020";123
+"Debagoiena / Alto Deba";"Sin estudios";"Hombres";"2010";518
+"Debagoiena / Alto Deba";"Sin estudios";"Hombres";"2013";494
+"Debagoiena / Alto Deba";"Sin estudios";"Hombres";"2014";458
+"Debagoiena / Alto Deba";"Sin estudios";"Hombres";"2015";450
+"Debagoiena / Alto Deba";"Sin estudios";"Hombres";"2016";410
+"Debagoiena / Alto Deba";"Sin estudios";"Hombres";"2018";421
+"Debagoiena / Alto Deba";"Sin estudios";"Hombres";"2019";395
+"Debagoiena / Alto Deba";"Sin estudios";"Hombres";"2020";391
+"Debagoiena / Alto Deba";"Sin estudios";"Mujeres";"2010";898
+"Debagoiena / Alto Deba";"Sin estudios";"Mujeres";"2013";769
+"Debagoiena / Alto Deba";"Sin estudios";"Mujeres";"2014";747
+"Debagoiena / Alto Deba";"Sin estudios";"Mujeres";"2015";737
+"Debagoiena / Alto Deba";"Sin estudios";"Mujeres";"2016";720
+"Debagoiena / Alto Deba";"Sin estudios";"Mujeres";"2018";714
+"Debagoiena / Alto Deba";"Sin estudios";"Mujeres";"2019";665
+"Debagoiena / Alto Deba";"Sin estudios";"Mujeres";"2020";659
+"Debagoiena / Alto Deba";"Primarios";"Hombres";"2010";9544
+"Debagoiena / Alto Deba";"Primarios";"Hombres";"2013";9153
+"Debagoiena / Alto Deba";"Primarios";"Hombres";"2014";9067
+"Debagoiena / Alto Deba";"Primarios";"Hombres";"2015";8902
+"Debagoiena / Alto Deba";"Primarios";"Hombres";"2016";8673
+"Debagoiena / Alto Deba";"Primarios";"Hombres";"2018";8247
+"Debagoiena / Alto Deba";"Primarios";"Hombres";"2019";7925
+"Debagoiena / Alto Deba";"Primarios";"Hombres";"2020";7815
+"Debagoiena / Alto Deba";"Primarios";"Mujeres";"2010";11900
+"Debagoiena / Alto Deba";"Primarios";"Mujeres";"2013";11485
+"Debagoiena / Alto Deba";"Primarios";"Mujeres";"2014";11357
+"Debagoiena / Alto Deba";"Primarios";"Mujeres";"2015";11198
+"Debagoiena / Alto Deba";"Primarios";"Mujeres";"2016";11051
+"Debagoiena / Alto Deba";"Primarios";"Mujeres";"2018";10658
+"Debagoiena / Alto Deba";"Primarios";"Mujeres";"2019";10341
+"Debagoiena / Alto Deba";"Primarios";"Mujeres";"2020";10133
+"Debagoiena / Alto Deba";"Profesionales";"Hombres";"2010";7067
+"Debagoiena / Alto Deba";"Profesionales";"Hombres";"2013";7802
+"Debagoiena / Alto Deba";"Profesionales";"Hombres";"2014";7909
+"Debagoiena / Alto Deba";"Profesionales";"Hombres";"2015";7955
+"Debagoiena / Alto Deba";"Profesionales";"Hombres";"2016";8040
+"Debagoiena / Alto Deba";"Profesionales";"Hombres";"2018";8351
+"Debagoiena / Alto Deba";"Profesionales";"Hombres";"2019";8697
+"Debagoiena / Alto Deba";"Profesionales";"Hombres";"2020";8913
+"Debagoiena / Alto Deba";"Profesionales";"Mujeres";"2010";3329
+"Debagoiena / Alto Deba";"Profesionales";"Mujeres";"2013";3812
+"Debagoiena / Alto Deba";"Profesionales";"Mujeres";"2014";3837
+"Debagoiena / Alto Deba";"Profesionales";"Mujeres";"2015";3874
+"Debagoiena / Alto Deba";"Profesionales";"Mujeres";"2016";3909
+"Debagoiena / Alto Deba";"Profesionales";"Mujeres";"2018";4085
+"Debagoiena / Alto Deba";"Profesionales";"Mujeres";"2019";4396
+"Debagoiena / Alto Deba";"Profesionales";"Mujeres";"2020";4555
+"Debagoiena / Alto Deba";"Secundarios";"Hombres";"2010";5770
+"Debagoiena / Alto Deba";"Secundarios";"Hombres";"2013";5587
+"Debagoiena / Alto Deba";"Secundarios";"Hombres";"2014";5539
+"Debagoiena / Alto Deba";"Secundarios";"Hombres";"2015";5588
+"Debagoiena / Alto Deba";"Secundarios";"Hombres";"2016";5505
+"Debagoiena / Alto Deba";"Secundarios";"Hombres";"2018";5529
+"Debagoiena / Alto Deba";"Secundarios";"Hombres";"2019";5570
+"Debagoiena / Alto Deba";"Secundarios";"Hombres";"2020";5460
+"Debagoiena / Alto Deba";"Secundarios";"Mujeres";"2010";5188
+"Debagoiena / Alto Deba";"Secundarios";"Mujeres";"2013";5134
+"Debagoiena / Alto Deba";"Secundarios";"Mujeres";"2014";5165
+"Debagoiena / Alto Deba";"Secundarios";"Mujeres";"2015";5266
+"Debagoiena / Alto Deba";"Secundarios";"Mujeres";"2016";5246
+"Debagoiena / Alto Deba";"Secundarios";"Mujeres";"2018";5447
+"Debagoiena / Alto Deba";"Secundarios";"Mujeres";"2019";5461
+"Debagoiena / Alto Deba";"Secundarios";"Mujeres";"2020";5515
+"Debagoiena / Alto Deba";"Medio-superiores";"Hombres";"2010";1903
+"Debagoiena / Alto Deba";"Medio-superiores";"Hombres";"2013";1678
+"Debagoiena / Alto Deba";"Medio-superiores";"Hombres";"2014";1667
+"Debagoiena / Alto Deba";"Medio-superiores";"Hombres";"2015";1631
+"Debagoiena / Alto Deba";"Medio-superiores";"Hombres";"2016";1644
+"Debagoiena / Alto Deba";"Medio-superiores";"Hombres";"2018";1599
+"Debagoiena / Alto Deba";"Medio-superiores";"Hombres";"2019";1569
+"Debagoiena / Alto Deba";"Medio-superiores";"Hombres";"2020";1508
+"Debagoiena / Alto Deba";"Medio-superiores";"Mujeres";"2010";2656
+"Debagoiena / Alto Deba";"Medio-superiores";"Mujeres";"2013";2471
+"Debagoiena / Alto Deba";"Medio-superiores";"Mujeres";"2014";2453
+"Debagoiena / Alto Deba";"Medio-superiores";"Mujeres";"2015";2408
+"Debagoiena / Alto Deba";"Medio-superiores";"Mujeres";"2016";2469
+"Debagoiena / Alto Deba";"Medio-superiores";"Mujeres";"2018";2423
+"Debagoiena / Alto Deba";"Medio-superiores";"Mujeres";"2019";2339
+"Debagoiena / Alto Deba";"Medio-superiores";"Mujeres";"2020";2242
+"Debagoiena / Alto Deba";"Superiores";"Hombres";"2010";2943
+"Debagoiena / Alto Deba";"Superiores";"Hombres";"2013";3380
+"Debagoiena / Alto Deba";"Superiores";"Hombres";"2014";3530
+"Debagoiena / Alto Deba";"Superiores";"Hombres";"2015";3562
+"Debagoiena / Alto Deba";"Superiores";"Hombres";"2016";3675
+"Debagoiena / Alto Deba";"Superiores";"Hombres";"2018";3996
+"Debagoiena / Alto Deba";"Superiores";"Hombres";"2019";4108
+"Debagoiena / Alto Deba";"Superiores";"Hombres";"2020";4287
+"Debagoiena / Alto Deba";"Superiores";"Mujeres";"2010";3810
+"Debagoiena / Alto Deba";"Superiores";"Mujeres";"2013";4390
+"Debagoiena / Alto Deba";"Superiores";"Mujeres";"2014";4612
+"Debagoiena / Alto Deba";"Superiores";"Mujeres";"2015";4690
+"Debagoiena / Alto Deba";"Superiores";"Mujeres";"2016";4870
+"Debagoiena / Alto Deba";"Superiores";"Mujeres";"2018";5309
+"Debagoiena / Alto Deba";"Superiores";"Mujeres";"2019";5578
+"Debagoiena / Alto Deba";"Superiores";"Mujeres";"2020";5869
+"Donostialdea";"Analfabetos";"Hombres";"2010";443
+"Donostialdea";"Analfabetos";"Hombres";"2013";373
+"Donostialdea";"Analfabetos";"Hombres";"2014";349
+"Donostialdea";"Analfabetos";"Hombres";"2015";332
+"Donostialdea";"Analfabetos";"Hombres";"2016";320
+"Donostialdea";"Analfabetos";"Hombres";"2018";273
+"Donostialdea";"Analfabetos";"Hombres";"2019";267
+"Donostialdea";"Analfabetos";"Hombres";"2020";243
+"Donostialdea";"Analfabetos";"Mujeres";"2010";996
+"Donostialdea";"Analfabetos";"Mujeres";"2013";814
+"Donostialdea";"Analfabetos";"Mujeres";"2014";767
+"Donostialdea";"Analfabetos";"Mujeres";"2015";734
+"Donostialdea";"Analfabetos";"Mujeres";"2016";699
+"Donostialdea";"Analfabetos";"Mujeres";"2018";611
+"Donostialdea";"Analfabetos";"Mujeres";"2019";571
+"Donostialdea";"Analfabetos";"Mujeres";"2020";537
+"Donostialdea";"Sin estudios";"Hombres";"2010";2961
+"Donostialdea";"Sin estudios";"Hombres";"2013";2569
+"Donostialdea";"Sin estudios";"Hombres";"2014";2459
+"Donostialdea";"Sin estudios";"Hombres";"2015";2387
+"Donostialdea";"Sin estudios";"Hombres";"2016";2248
+"Donostialdea";"Sin estudios";"Hombres";"2018";2285
+"Donostialdea";"Sin estudios";"Hombres";"2019";2200
+"Donostialdea";"Sin estudios";"Hombres";"2020";2156
+"Donostialdea";"Sin estudios";"Mujeres";"2010";4912
+"Donostialdea";"Sin estudios";"Mujeres";"2013";4294
+"Donostialdea";"Sin estudios";"Mujeres";"2014";4068
+"Donostialdea";"Sin estudios";"Mujeres";"2015";3921
+"Donostialdea";"Sin estudios";"Mujeres";"2016";3777
+"Donostialdea";"Sin estudios";"Mujeres";"2018";3643
+"Donostialdea";"Sin estudios";"Mujeres";"2019";3537
+"Donostialdea";"Sin estudios";"Mujeres";"2020";3461
+"Donostialdea";"Primarios";"Hombres";"2010";43705
+"Donostialdea";"Primarios";"Hombres";"2013";41600
+"Donostialdea";"Primarios";"Hombres";"2014";40943
+"Donostialdea";"Primarios";"Hombres";"2015";40560
+"Donostialdea";"Primarios";"Hombres";"2016";40084
+"Donostialdea";"Primarios";"Hombres";"2018";38368
+"Donostialdea";"Primarios";"Hombres";"2019";37270
+"Donostialdea";"Primarios";"Hombres";"2020";37018
+"Donostialdea";"Primarios";"Mujeres";"2010";54003
+"Donostialdea";"Primarios";"Mujeres";"2013";51704
+"Donostialdea";"Primarios";"Mujeres";"2014";51052
+"Donostialdea";"Primarios";"Mujeres";"2015";50361
+"Donostialdea";"Primarios";"Mujeres";"2016";49547
+"Donostialdea";"Primarios";"Mujeres";"2018";47669
+"Donostialdea";"Primarios";"Mujeres";"2019";46272
+"Donostialdea";"Primarios";"Mujeres";"2020";45584
+"Donostialdea";"Profesionales";"Hombres";"2010";25754
+"Donostialdea";"Profesionales";"Hombres";"2013";28474
+"Donostialdea";"Profesionales";"Hombres";"2014";28947
+"Donostialdea";"Profesionales";"Hombres";"2015";29384
+"Donostialdea";"Profesionales";"Hombres";"2016";29968
+"Donostialdea";"Profesionales";"Hombres";"2018";30773
+"Donostialdea";"Profesionales";"Hombres";"2019";32734
+"Donostialdea";"Profesionales";"Hombres";"2020";33914
+"Donostialdea";"Profesionales";"Mujeres";"2010";19198
+"Donostialdea";"Profesionales";"Mujeres";"2013";20862
+"Donostialdea";"Profesionales";"Mujeres";"2014";21211
+"Donostialdea";"Profesionales";"Mujeres";"2015";21568
+"Donostialdea";"Profesionales";"Mujeres";"2016";21762
+"Donostialdea";"Profesionales";"Mujeres";"2018";22642
+"Donostialdea";"Profesionales";"Mujeres";"2019";24039
+"Donostialdea";"Profesionales";"Mujeres";"2020";24942
+"Donostialdea";"Secundarios";"Hombres";"2010";32334
+"Donostialdea";"Secundarios";"Hombres";"2013";32121
+"Donostialdea";"Secundarios";"Hombres";"2014";32012
+"Donostialdea";"Secundarios";"Hombres";"2015";32421
+"Donostialdea";"Secundarios";"Hombres";"2016";32221
+"Donostialdea";"Secundarios";"Hombres";"2018";32659
+"Donostialdea";"Secundarios";"Hombres";"2019";32582
+"Donostialdea";"Secundarios";"Hombres";"2020";32205
+"Donostialdea";"Secundarios";"Mujeres";"2010";32934
+"Donostialdea";"Secundarios";"Mujeres";"2013";33642
+"Donostialdea";"Secundarios";"Mujeres";"2014";33634
+"Donostialdea";"Secundarios";"Mujeres";"2015";34070
+"Donostialdea";"Secundarios";"Mujeres";"2016";34066
+"Donostialdea";"Secundarios";"Mujeres";"2018";34617
+"Donostialdea";"Secundarios";"Mujeres";"2019";34667
+"Donostialdea";"Secundarios";"Mujeres";"2020";34396
+"Donostialdea";"Medio-superiores";"Hombres";"2010";10356
+"Donostialdea";"Medio-superiores";"Hombres";"2013";9152
+"Donostialdea";"Medio-superiores";"Hombres";"2014";8875
+"Donostialdea";"Medio-superiores";"Hombres";"2015";8649
+"Donostialdea";"Medio-superiores";"Hombres";"2016";8752
+"Donostialdea";"Medio-superiores";"Hombres";"2018";8512
+"Donostialdea";"Medio-superiores";"Hombres";"2019";8290
+"Donostialdea";"Medio-superiores";"Hombres";"2020";8005
+"Donostialdea";"Medio-superiores";"Mujeres";"2010";15745
+"Donostialdea";"Medio-superiores";"Mujeres";"2013";14759
+"Donostialdea";"Medio-superiores";"Mujeres";"2014";14621
+"Donostialdea";"Medio-superiores";"Mujeres";"2015";14319
+"Donostialdea";"Medio-superiores";"Mujeres";"2016";14594
+"Donostialdea";"Medio-superiores";"Mujeres";"2018";14219
+"Donostialdea";"Medio-superiores";"Mujeres";"2019";13784
+"Donostialdea";"Medio-superiores";"Mujeres";"2020";13285
+"Donostialdea";"Superiores";"Hombres";"2010";23484
+"Donostialdea";"Superiores";"Hombres";"2013";25597
+"Donostialdea";"Superiores";"Hombres";"2014";26282
+"Donostialdea";"Superiores";"Hombres";"2015";26624
+"Donostialdea";"Superiores";"Hombres";"2016";26988
+"Donostialdea";"Superiores";"Hombres";"2018";28647
+"Donostialdea";"Superiores";"Hombres";"2019";29426
+"Donostialdea";"Superiores";"Hombres";"2020";30540
+"Donostialdea";"Superiores";"Mujeres";"2010";24904
+"Donostialdea";"Superiores";"Mujeres";"2013";27679
+"Donostialdea";"Superiores";"Mujeres";"2014";28663
+"Donostialdea";"Superiores";"Mujeres";"2015";29228
+"Donostialdea";"Superiores";"Mujeres";"2016";30138
+"Donostialdea";"Superiores";"Mujeres";"2018";32529
+"Donostialdea";"Superiores";"Mujeres";"2019";33945
+"Donostialdea";"Superiores";"Mujeres";"2020";35752
+"Durangaldea / Duranguesado";"Analfabetos";"Hombres";"2010";179
+"Durangaldea / Duranguesado";"Analfabetos";"Hombres";"2013";153
+"Durangaldea / Duranguesado";"Analfabetos";"Hombres";"2014";144
+"Durangaldea / Duranguesado";"Analfabetos";"Hombres";"2015";135
+"Durangaldea / Duranguesado";"Analfabetos";"Hombres";"2016";126
+"Durangaldea / Duranguesado";"Analfabetos";"Hombres";"2018";115
+"Durangaldea / Duranguesado";"Analfabetos";"Hombres";"2019";117
+"Durangaldea / Duranguesado";"Analfabetos";"Hombres";"2020";110
+"Durangaldea / Duranguesado";"Analfabetos";"Mujeres";"2010";442
+"Durangaldea / Duranguesado";"Analfabetos";"Mujeres";"2013";364
+"Durangaldea / Duranguesado";"Analfabetos";"Mujeres";"2014";352
+"Durangaldea / Duranguesado";"Analfabetos";"Mujeres";"2015";330
+"Durangaldea / Duranguesado";"Analfabetos";"Mujeres";"2016";304
+"Durangaldea / Duranguesado";"Analfabetos";"Mujeres";"2018";265
+"Durangaldea / Duranguesado";"Analfabetos";"Mujeres";"2019";255
+"Durangaldea / Duranguesado";"Analfabetos";"Mujeres";"2020";233
+"Durangaldea / Duranguesado";"Sin estudios";"Hombres";"2010";1141
+"Durangaldea / Duranguesado";"Sin estudios";"Hombres";"2013";993
+"Durangaldea / Duranguesado";"Sin estudios";"Hombres";"2014";939
+"Durangaldea / Duranguesado";"Sin estudios";"Hombres";"2015";931
+"Durangaldea / Duranguesado";"Sin estudios";"Hombres";"2016";876
+"Durangaldea / Duranguesado";"Sin estudios";"Hombres";"2018";918
+"Durangaldea / Duranguesado";"Sin estudios";"Hombres";"2019";858
+"Durangaldea / Duranguesado";"Sin estudios";"Hombres";"2020";853
+"Durangaldea / Duranguesado";"Sin estudios";"Mujeres";"2010";1573
+"Durangaldea / Duranguesado";"Sin estudios";"Mujeres";"2013";1364
+"Durangaldea / Duranguesado";"Sin estudios";"Mujeres";"2014";1304
+"Durangaldea / Duranguesado";"Sin estudios";"Mujeres";"2015";1261
+"Durangaldea / Duranguesado";"Sin estudios";"Mujeres";"2016";1206
+"Durangaldea / Duranguesado";"Sin estudios";"Mujeres";"2018";1201
+"Durangaldea / Duranguesado";"Sin estudios";"Mujeres";"2019";1156
+"Durangaldea / Duranguesado";"Sin estudios";"Mujeres";"2020";1155
+"Durangaldea / Duranguesado";"Primarios";"Hombres";"2010";16616
+"Durangaldea / Duranguesado";"Primarios";"Hombres";"2013";16024
+"Durangaldea / Duranguesado";"Primarios";"Hombres";"2014";15689
+"Durangaldea / Duranguesado";"Primarios";"Hombres";"2015";15391
+"Durangaldea / Duranguesado";"Primarios";"Hombres";"2016";15206
+"Durangaldea / Duranguesado";"Primarios";"Hombres";"2018";14730
+"Durangaldea / Duranguesado";"Primarios";"Hombres";"2019";14294
+"Durangaldea / Duranguesado";"Primarios";"Hombres";"2020";14152
+"Durangaldea / Duranguesado";"Primarios";"Mujeres";"2010";18596
+"Durangaldea / Duranguesado";"Primarios";"Mujeres";"2013";18087
+"Durangaldea / Duranguesado";"Primarios";"Mujeres";"2014";17916
+"Durangaldea / Duranguesado";"Primarios";"Mujeres";"2015";17713
+"Durangaldea / Duranguesado";"Primarios";"Mujeres";"2016";17418
+"Durangaldea / Duranguesado";"Primarios";"Mujeres";"2018";16884
+"Durangaldea / Duranguesado";"Primarios";"Mujeres";"2019";16463
+"Durangaldea / Duranguesado";"Primarios";"Mujeres";"2020";16206
+"Durangaldea / Duranguesado";"Profesionales";"Hombres";"2010";9089
+"Durangaldea / Duranguesado";"Profesionales";"Hombres";"2013";10214
+"Durangaldea / Duranguesado";"Profesionales";"Hombres";"2014";10382
+"Durangaldea / Duranguesado";"Profesionales";"Hombres";"2015";10509
+"Durangaldea / Duranguesado";"Profesionales";"Hombres";"2016";10706
+"Durangaldea / Duranguesado";"Profesionales";"Hombres";"2018";11026
+"Durangaldea / Duranguesado";"Profesionales";"Hombres";"2019";11638
+"Durangaldea / Duranguesado";"Profesionales";"Hombres";"2020";12027
+"Durangaldea / Duranguesado";"Profesionales";"Mujeres";"2010";5945
+"Durangaldea / Duranguesado";"Profesionales";"Mujeres";"2013";6639
+"Durangaldea / Duranguesado";"Profesionales";"Mujeres";"2014";6805
+"Durangaldea / Duranguesado";"Profesionales";"Mujeres";"2015";6910
+"Durangaldea / Duranguesado";"Profesionales";"Mujeres";"2016";7020
+"Durangaldea / Duranguesado";"Profesionales";"Mujeres";"2018";7208
+"Durangaldea / Duranguesado";"Profesionales";"Mujeres";"2019";7633
+"Durangaldea / Duranguesado";"Profesionales";"Mujeres";"2020";7993
+"Durangaldea / Duranguesado";"Secundarios";"Hombres";"2010";8873
+"Durangaldea / Duranguesado";"Secundarios";"Hombres";"2013";8659
+"Durangaldea / Duranguesado";"Secundarios";"Hombres";"2014";8497
+"Durangaldea / Duranguesado";"Secundarios";"Hombres";"2015";8741
+"Durangaldea / Duranguesado";"Secundarios";"Hombres";"2016";8768
+"Durangaldea / Duranguesado";"Secundarios";"Hombres";"2018";9130
+"Durangaldea / Duranguesado";"Secundarios";"Hombres";"2019";9176
+"Durangaldea / Duranguesado";"Secundarios";"Hombres";"2020";9118
+"Durangaldea / Duranguesado";"Secundarios";"Mujeres";"2010";7818
+"Durangaldea / Duranguesado";"Secundarios";"Mujeres";"2013";8018
+"Durangaldea / Duranguesado";"Secundarios";"Mujeres";"2014";7897
+"Durangaldea / Duranguesado";"Secundarios";"Mujeres";"2015";8080
+"Durangaldea / Duranguesado";"Secundarios";"Mujeres";"2016";8097
+"Durangaldea / Duranguesado";"Secundarios";"Mujeres";"2018";8472
+"Durangaldea / Duranguesado";"Secundarios";"Mujeres";"2019";8540
+"Durangaldea / Duranguesado";"Secundarios";"Mujeres";"2020";8526
+"Durangaldea / Duranguesado";"Medio-superiores";"Hombres";"2010";2827
+"Durangaldea / Duranguesado";"Medio-superiores";"Hombres";"2013";2499
+"Durangaldea / Duranguesado";"Medio-superiores";"Hombres";"2014";2429
+"Durangaldea / Duranguesado";"Medio-superiores";"Hombres";"2015";2333
+"Durangaldea / Duranguesado";"Medio-superiores";"Hombres";"2016";2397
+"Durangaldea / Duranguesado";"Medio-superiores";"Hombres";"2018";2375
+"Durangaldea / Duranguesado";"Medio-superiores";"Hombres";"2019";2310
+"Durangaldea / Duranguesado";"Medio-superiores";"Hombres";"2020";2173
+"Durangaldea / Duranguesado";"Medio-superiores";"Mujeres";"2010";4159
+"Durangaldea / Duranguesado";"Medio-superiores";"Mujeres";"2013";3836
+"Durangaldea / Duranguesado";"Medio-superiores";"Mujeres";"2014";3776
+"Durangaldea / Duranguesado";"Medio-superiores";"Mujeres";"2015";3719
+"Durangaldea / Duranguesado";"Medio-superiores";"Mujeres";"2016";3805
+"Durangaldea / Duranguesado";"Medio-superiores";"Mujeres";"2018";3718
+"Durangaldea / Duranguesado";"Medio-superiores";"Mujeres";"2019";3571
+"Durangaldea / Duranguesado";"Medio-superiores";"Mujeres";"2020";3394
+"Durangaldea / Duranguesado";"Superiores";"Hombres";"2010";4278
+"Durangaldea / Duranguesado";"Superiores";"Hombres";"2013";4931
+"Durangaldea / Duranguesado";"Superiores";"Hombres";"2014";5140
+"Durangaldea / Duranguesado";"Superiores";"Hombres";"2015";5213
+"Durangaldea / Duranguesado";"Superiores";"Hombres";"2016";5299
+"Durangaldea / Duranguesado";"Superiores";"Hombres";"2018";5696
+"Durangaldea / Duranguesado";"Superiores";"Hombres";"2019";5881
+"Durangaldea / Duranguesado";"Superiores";"Hombres";"2020";6212
+"Durangaldea / Duranguesado";"Superiores";"Mujeres";"2010";5567
+"Durangaldea / Duranguesado";"Superiores";"Mujeres";"2013";6372
+"Durangaldea / Duranguesado";"Superiores";"Mujeres";"2014";6674
+"Durangaldea / Duranguesado";"Superiores";"Mujeres";"2015";6816
+"Durangaldea / Duranguesado";"Superiores";"Mujeres";"2016";7041
+"Durangaldea / Duranguesado";"Superiores";"Mujeres";"2018";7702
+"Durangaldea / Duranguesado";"Superiores";"Mujeres";"2019";8137
+"Durangaldea / Duranguesado";"Superiores";"Mujeres";"2020";8621
+"Enkartazioak / Encartaciones";"Analfabetos";"Hombres";"2010";47
+"Enkartazioak / Encartaciones";"Analfabetos";"Hombres";"2013";52
+"Enkartazioak / Encartaciones";"Analfabetos";"Hombres";"2014";52
+"Enkartazioak / Encartaciones";"Analfabetos";"Hombres";"2015";53
+"Enkartazioak / Encartaciones";"Analfabetos";"Hombres";"2016";51
+"Enkartazioak / Encartaciones";"Analfabetos";"Hombres";"2018";46
+"Enkartazioak / Encartaciones";"Analfabetos";"Hombres";"2019";44
+"Enkartazioak / Encartaciones";"Analfabetos";"Hombres";"2020";45
+"Enkartazioak / Encartaciones";"Analfabetos";"Mujeres";"2010";84
+"Enkartazioak / Encartaciones";"Analfabetos";"Mujeres";"2013";71
+"Enkartazioak / Encartaciones";"Analfabetos";"Mujeres";"2014";70
+"Enkartazioak / Encartaciones";"Analfabetos";"Mujeres";"2015";71
+"Enkartazioak / Encartaciones";"Analfabetos";"Mujeres";"2016";70
+"Enkartazioak / Encartaciones";"Analfabetos";"Mujeres";"2018";64
+"Enkartazioak / Encartaciones";"Analfabetos";"Mujeres";"2019";61
+"Enkartazioak / Encartaciones";"Analfabetos";"Mujeres";"2020";54
+"Enkartazioak / Encartaciones";"Sin estudios";"Hombres";"2010";132
+"Enkartazioak / Encartaciones";"Sin estudios";"Hombres";"2013";136
+"Enkartazioak / Encartaciones";"Sin estudios";"Hombres";"2014";136
+"Enkartazioak / Encartaciones";"Sin estudios";"Hombres";"2015";139
+"Enkartazioak / Encartaciones";"Sin estudios";"Hombres";"2016";138
+"Enkartazioak / Encartaciones";"Sin estudios";"Hombres";"2018";149
+"Enkartazioak / Encartaciones";"Sin estudios";"Hombres";"2019";154
+"Enkartazioak / Encartaciones";"Sin estudios";"Hombres";"2020";159
+"Enkartazioak / Encartaciones";"Sin estudios";"Mujeres";"2010";239
+"Enkartazioak / Encartaciones";"Sin estudios";"Mujeres";"2013";217
+"Enkartazioak / Encartaciones";"Sin estudios";"Mujeres";"2014";217
+"Enkartazioak / Encartaciones";"Sin estudios";"Mujeres";"2015";203
+"Enkartazioak / Encartaciones";"Sin estudios";"Mujeres";"2016";193
+"Enkartazioak / Encartaciones";"Sin estudios";"Mujeres";"2018";199
+"Enkartazioak / Encartaciones";"Sin estudios";"Mujeres";"2019";197
+"Enkartazioak / Encartaciones";"Sin estudios";"Mujeres";"2020";207
+"Enkartazioak / Encartaciones";"Primarios";"Hombres";"2010";5756
+"Enkartazioak / Encartaciones";"Primarios";"Hombres";"2013";5493
+"Enkartazioak / Encartaciones";"Primarios";"Hombres";"2014";5389
+"Enkartazioak / Encartaciones";"Primarios";"Hombres";"2015";5294
+"Enkartazioak / Encartaciones";"Primarios";"Hombres";"2016";5201
+"Enkartazioak / Encartaciones";"Primarios";"Hombres";"2018";4862
+"Enkartazioak / Encartaciones";"Primarios";"Hombres";"2019";4675
+"Enkartazioak / Encartaciones";"Primarios";"Hombres";"2020";4663
+"Enkartazioak / Encartaciones";"Primarios";"Mujeres";"2010";6593
+"Enkartazioak / Encartaciones";"Primarios";"Mujeres";"2013";6382
+"Enkartazioak / Encartaciones";"Primarios";"Mujeres";"2014";6314
+"Enkartazioak / Encartaciones";"Primarios";"Mujeres";"2015";6237
+"Enkartazioak / Encartaciones";"Primarios";"Mujeres";"2016";6064
+"Enkartazioak / Encartaciones";"Primarios";"Mujeres";"2018";5691
+"Enkartazioak / Encartaciones";"Primarios";"Mujeres";"2019";5576
+"Enkartazioak / Encartaciones";"Primarios";"Mujeres";"2020";5498
+"Enkartazioak / Encartaciones";"Profesionales";"Hombres";"2010";3386
+"Enkartazioak / Encartaciones";"Profesionales";"Hombres";"2013";3643
+"Enkartazioak / Encartaciones";"Profesionales";"Hombres";"2014";3709
+"Enkartazioak / Encartaciones";"Profesionales";"Hombres";"2015";3715
+"Enkartazioak / Encartaciones";"Profesionales";"Hombres";"2016";3798
+"Enkartazioak / Encartaciones";"Profesionales";"Hombres";"2018";3877
+"Enkartazioak / Encartaciones";"Profesionales";"Hombres";"2019";4050
+"Enkartazioak / Encartaciones";"Profesionales";"Hombres";"2020";4148
+"Enkartazioak / Encartaciones";"Profesionales";"Mujeres";"2010";2139
+"Enkartazioak / Encartaciones";"Profesionales";"Mujeres";"2013";2333
+"Enkartazioak / Encartaciones";"Profesionales";"Mujeres";"2014";2398
+"Enkartazioak / Encartaciones";"Profesionales";"Mujeres";"2015";2424
+"Enkartazioak / Encartaciones";"Profesionales";"Mujeres";"2016";2470
+"Enkartazioak / Encartaciones";"Profesionales";"Mujeres";"2018";2508
+"Enkartazioak / Encartaciones";"Profesionales";"Mujeres";"2019";2659
+"Enkartazioak / Encartaciones";"Profesionales";"Mujeres";"2020";2719
+"Enkartazioak / Encartaciones";"Secundarios";"Hombres";"2010";2954
+"Enkartazioak / Encartaciones";"Secundarios";"Hombres";"2013";2992
+"Enkartazioak / Encartaciones";"Secundarios";"Hombres";"2014";2940
+"Enkartazioak / Encartaciones";"Secundarios";"Hombres";"2015";3009
+"Enkartazioak / Encartaciones";"Secundarios";"Hombres";"2016";3024
+"Enkartazioak / Encartaciones";"Secundarios";"Hombres";"2018";3126
+"Enkartazioak / Encartaciones";"Secundarios";"Hombres";"2019";3157
+"Enkartazioak / Encartaciones";"Secundarios";"Hombres";"2020";3107
+"Enkartazioak / Encartaciones";"Secundarios";"Mujeres";"2010";2613
+"Enkartazioak / Encartaciones";"Secundarios";"Mujeres";"2013";2723
+"Enkartazioak / Encartaciones";"Secundarios";"Mujeres";"2014";2668
+"Enkartazioak / Encartaciones";"Secundarios";"Mujeres";"2015";2759
+"Enkartazioak / Encartaciones";"Secundarios";"Mujeres";"2016";2780
+"Enkartazioak / Encartaciones";"Secundarios";"Mujeres";"2018";2907
+"Enkartazioak / Encartaciones";"Secundarios";"Mujeres";"2019";2926
+"Enkartazioak / Encartaciones";"Secundarios";"Mujeres";"2020";2954
+"Enkartazioak / Encartaciones";"Medio-superiores";"Hombres";"2010";790
+"Enkartazioak / Encartaciones";"Medio-superiores";"Hombres";"2013";751
+"Enkartazioak / Encartaciones";"Medio-superiores";"Hombres";"2014";735
+"Enkartazioak / Encartaciones";"Medio-superiores";"Hombres";"2015";700
+"Enkartazioak / Encartaciones";"Medio-superiores";"Hombres";"2016";705
+"Enkartazioak / Encartaciones";"Medio-superiores";"Hombres";"2018";674
+"Enkartazioak / Encartaciones";"Medio-superiores";"Hombres";"2019";679
+"Enkartazioak / Encartaciones";"Medio-superiores";"Hombres";"2020";659
+"Enkartazioak / Encartaciones";"Medio-superiores";"Mujeres";"2010";1276
+"Enkartazioak / Encartaciones";"Medio-superiores";"Mujeres";"2013";1223
+"Enkartazioak / Encartaciones";"Medio-superiores";"Mujeres";"2014";1204
+"Enkartazioak / Encartaciones";"Medio-superiores";"Mujeres";"2015";1184
+"Enkartazioak / Encartaciones";"Medio-superiores";"Mujeres";"2016";1219
+"Enkartazioak / Encartaciones";"Medio-superiores";"Mujeres";"2018";1181
+"Enkartazioak / Encartaciones";"Medio-superiores";"Mujeres";"2019";1160
+"Enkartazioak / Encartaciones";"Medio-superiores";"Mujeres";"2020";1100
+"Enkartazioak / Encartaciones";"Superiores";"Hombres";"2010";1141
+"Enkartazioak / Encartaciones";"Superiores";"Hombres";"2013";1309
+"Enkartazioak / Encartaciones";"Superiores";"Hombres";"2014";1356
+"Enkartazioak / Encartaciones";"Superiores";"Hombres";"2015";1396
+"Enkartazioak / Encartaciones";"Superiores";"Hombres";"2016";1382
+"Enkartazioak / Encartaciones";"Superiores";"Hombres";"2018";1481
+"Enkartazioak / Encartaciones";"Superiores";"Hombres";"2019";1522
+"Enkartazioak / Encartaciones";"Superiores";"Hombres";"2020";1583
+"Enkartazioak / Encartaciones";"Superiores";"Mujeres";"2010";1523
+"Enkartazioak / Encartaciones";"Superiores";"Mujeres";"2013";1769
+"Enkartazioak / Encartaciones";"Superiores";"Mujeres";"2014";1832
+"Enkartazioak / Encartaciones";"Superiores";"Mujeres";"2015";1854
+"Enkartazioak / Encartaciones";"Superiores";"Mujeres";"2016";1895
+"Enkartazioak / Encartaciones";"Superiores";"Mujeres";"2018";2083
+"Enkartazioak / Encartaciones";"Superiores";"Mujeres";"2019";2177
+"Enkartazioak / Encartaciones";"Superiores";"Mujeres";"2020";2329
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Hombres";"2010";18
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Hombres";"2013";14
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Hombres";"2014";15
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Hombres";"2015";15
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Hombres";"2016";12
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Hombres";"2018";10
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Hombres";"2019";10
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Hombres";"2020";10
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Mujeres";"2010";26
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Mujeres";"2013";21
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Mujeres";"2014";22
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Mujeres";"2015";22
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Mujeres";"2016";23
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Mujeres";"2018";24
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Mujeres";"2019";23
+"Arabako Errioxa / Rioja Alavesa";"Analfabetos";"Mujeres";"2020";24
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Hombres";"2010";91
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Hombres";"2013";93
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Hombres";"2014";83
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Hombres";"2015";78
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Hombres";"2016";67
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Hombres";"2018";85
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Hombres";"2019";78
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Hombres";"2020";77
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Mujeres";"2010";116
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Mujeres";"2013";100
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Mujeres";"2014";101
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Mujeres";"2015";106
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Mujeres";"2016";89
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Mujeres";"2018";105
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Mujeres";"2019";91
+"Arabako Errioxa / Rioja Alavesa";"Sin estudios";"Mujeres";"2020";92
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Hombres";"2010";2738
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Hombres";"2013";2617
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Hombres";"2014";2578
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Hombres";"2015";2515
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Hombres";"2016";2431
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Hombres";"2018";2295
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Hombres";"2019";2221
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Hombres";"2020";2219
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Mujeres";"2010";2407
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Mujeres";"2013";2273
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Mujeres";"2014";2246
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Mujeres";"2015";2256
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Mujeres";"2016";2184
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Mujeres";"2018";2086
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Mujeres";"2019";2033
+"Arabako Errioxa / Rioja Alavesa";"Primarios";"Mujeres";"2020";1990
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Hombres";"2010";803
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Hombres";"2013";830
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Hombres";"2014";838
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Hombres";"2015";842
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Hombres";"2016";833
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Hombres";"2018";887
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Hombres";"2019";948
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Hombres";"2020";987
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Mujeres";"2010";614
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Mujeres";"2013";634
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Mujeres";"2014";636
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Mujeres";"2015";650
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Mujeres";"2016";632
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Mujeres";"2018";683
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Mujeres";"2019";732
+"Arabako Errioxa / Rioja Alavesa";"Profesionales";"Mujeres";"2020";741
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Hombres";"2010";1148
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Hombres";"2013";1176
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Hombres";"2014";1223
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Hombres";"2015";1278
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Hombres";"2016";1299
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Hombres";"2018";1373
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Hombres";"2019";1330
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Hombres";"2020";1358
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Mujeres";"2010";922
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Mujeres";"2013";985
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Mujeres";"2014";1025
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Mujeres";"2015";1027
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Mujeres";"2016";1071
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Mujeres";"2018";1091
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Mujeres";"2019";1077
+"Arabako Errioxa / Rioja Alavesa";"Secundarios";"Mujeres";"2020";1125
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Hombres";"2010";230
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Hombres";"2013";214
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Hombres";"2014";211
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Hombres";"2015";210
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Hombres";"2016";213
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Hombres";"2018";204
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Hombres";"2019";204
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Hombres";"2020";202
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Mujeres";"2010";455
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Mujeres";"2013";427
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Mujeres";"2014";419
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Mujeres";"2015";397
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Mujeres";"2016";414
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Mujeres";"2018";399
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Mujeres";"2019";400
+"Arabako Errioxa / Rioja Alavesa";"Medio-superiores";"Mujeres";"2020";385
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Hombres";"2010";397
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Hombres";"2013";439
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Hombres";"2014";417
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Hombres";"2015";438
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Hombres";"2016";436
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Hombres";"2018";467
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Hombres";"2019";506
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Hombres";"2020";542
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Mujeres";"2010";429
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Mujeres";"2013";498
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Mujeres";"2014";499
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Mujeres";"2015";521
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Mujeres";"2016";546
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Mujeres";"2018";589
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Mujeres";"2019";658
+"Arabako Errioxa / Rioja Alavesa";"Superiores";"Mujeres";"2020";683
+"Gernika-Bermeo";"Analfabetos";"Hombres";"2010";44
+"Gernika-Bermeo";"Analfabetos";"Hombres";"2013";34
+"Gernika-Bermeo";"Analfabetos";"Hombres";"2014";32
+"Gernika-Bermeo";"Analfabetos";"Hombres";"2015";33
+"Gernika-Bermeo";"Analfabetos";"Hombres";"2016";30
+"Gernika-Bermeo";"Analfabetos";"Hombres";"2018";30
+"Gernika-Bermeo";"Analfabetos";"Hombres";"2019";26
+"Gernika-Bermeo";"Analfabetos";"Hombres";"2020";21
+"Gernika-Bermeo";"Analfabetos";"Mujeres";"2010";135
+"Gernika-Bermeo";"Analfabetos";"Mujeres";"2013";102
+"Gernika-Bermeo";"Analfabetos";"Mujeres";"2014";89
+"Gernika-Bermeo";"Analfabetos";"Mujeres";"2015";86
+"Gernika-Bermeo";"Analfabetos";"Mujeres";"2016";80
+"Gernika-Bermeo";"Analfabetos";"Mujeres";"2018";62
+"Gernika-Bermeo";"Analfabetos";"Mujeres";"2019";55
+"Gernika-Bermeo";"Analfabetos";"Mujeres";"2020";50
+"Gernika-Bermeo";"Sin estudios";"Hombres";"2010";407
+"Gernika-Bermeo";"Sin estudios";"Hombres";"2013";358
+"Gernika-Bermeo";"Sin estudios";"Hombres";"2014";329
+"Gernika-Bermeo";"Sin estudios";"Hombres";"2015";331
+"Gernika-Bermeo";"Sin estudios";"Hombres";"2016";314
+"Gernika-Bermeo";"Sin estudios";"Hombres";"2018";315
+"Gernika-Bermeo";"Sin estudios";"Hombres";"2019";298
+"Gernika-Bermeo";"Sin estudios";"Hombres";"2020";303
+"Gernika-Bermeo";"Sin estudios";"Mujeres";"2010";702
+"Gernika-Bermeo";"Sin estudios";"Mujeres";"2013";601
+"Gernika-Bermeo";"Sin estudios";"Mujeres";"2014";566
+"Gernika-Bermeo";"Sin estudios";"Mujeres";"2015";546
+"Gernika-Bermeo";"Sin estudios";"Mujeres";"2016";505
+"Gernika-Bermeo";"Sin estudios";"Mujeres";"2018";481
+"Gernika-Bermeo";"Sin estudios";"Mujeres";"2019";476
+"Gernika-Bermeo";"Sin estudios";"Mujeres";"2020";473
+"Gernika-Bermeo";"Primarios";"Hombres";"2010";7361
+"Gernika-Bermeo";"Primarios";"Hombres";"2013";6989
+"Gernika-Bermeo";"Primarios";"Hombres";"2014";6810
+"Gernika-Bermeo";"Primarios";"Hombres";"2015";6645
+"Gernika-Bermeo";"Primarios";"Hombres";"2016";6489
+"Gernika-Bermeo";"Primarios";"Hombres";"2018";6197
+"Gernika-Bermeo";"Primarios";"Hombres";"2019";5938
+"Gernika-Bermeo";"Primarios";"Hombres";"2020";5908
+"Gernika-Bermeo";"Primarios";"Mujeres";"2010";8963
+"Gernika-Bermeo";"Primarios";"Mujeres";"2013";8553
+"Gernika-Bermeo";"Primarios";"Mujeres";"2014";8401
+"Gernika-Bermeo";"Primarios";"Mujeres";"2015";8237
+"Gernika-Bermeo";"Primarios";"Mujeres";"2016";8087
+"Gernika-Bermeo";"Primarios";"Mujeres";"2018";7708
+"Gernika-Bermeo";"Primarios";"Mujeres";"2019";7523
+"Gernika-Bermeo";"Primarios";"Mujeres";"2020";7373
+"Gernika-Bermeo";"Profesionales";"Hombres";"2010";3644
+"Gernika-Bermeo";"Profesionales";"Hombres";"2013";3987
+"Gernika-Bermeo";"Profesionales";"Hombres";"2014";4097
+"Gernika-Bermeo";"Profesionales";"Hombres";"2015";4194
+"Gernika-Bermeo";"Profesionales";"Hombres";"2016";4288
+"Gernika-Bermeo";"Profesionales";"Hombres";"2018";4410
+"Gernika-Bermeo";"Profesionales";"Hombres";"2019";4638
+"Gernika-Bermeo";"Profesionales";"Hombres";"2020";4840
+"Gernika-Bermeo";"Profesionales";"Mujeres";"2010";2302
+"Gernika-Bermeo";"Profesionales";"Mujeres";"2013";2543
+"Gernika-Bermeo";"Profesionales";"Mujeres";"2014";2604
+"Gernika-Bermeo";"Profesionales";"Mujeres";"2015";2697
+"Gernika-Bermeo";"Profesionales";"Mujeres";"2016";2729
+"Gernika-Bermeo";"Profesionales";"Mujeres";"2018";2794
+"Gernika-Bermeo";"Profesionales";"Mujeres";"2019";2960
+"Gernika-Bermeo";"Profesionales";"Mujeres";"2020";3005
+"Gernika-Bermeo";"Secundarios";"Hombres";"2010";4502
+"Gernika-Bermeo";"Secundarios";"Hombres";"2013";4566
+"Gernika-Bermeo";"Secundarios";"Hombres";"2014";4491
+"Gernika-Bermeo";"Secundarios";"Hombres";"2015";4544
+"Gernika-Bermeo";"Secundarios";"Hombres";"2016";4546
+"Gernika-Bermeo";"Secundarios";"Hombres";"2018";4631
+"Gernika-Bermeo";"Secundarios";"Hombres";"2019";4641
+"Gernika-Bermeo";"Secundarios";"Hombres";"2020";4518
+"Gernika-Bermeo";"Secundarios";"Mujeres";"2010";3809
+"Gernika-Bermeo";"Secundarios";"Mujeres";"2013";3956
+"Gernika-Bermeo";"Secundarios";"Mujeres";"2014";3925
+"Gernika-Bermeo";"Secundarios";"Mujeres";"2015";3971
+"Gernika-Bermeo";"Secundarios";"Mujeres";"2016";3960
+"Gernika-Bermeo";"Secundarios";"Mujeres";"2018";4145
+"Gernika-Bermeo";"Secundarios";"Mujeres";"2019";4191
+"Gernika-Bermeo";"Secundarios";"Mujeres";"2020";4279
+"Gernika-Bermeo";"Medio-superiores";"Hombres";"2010";1440
+"Gernika-Bermeo";"Medio-superiores";"Hombres";"2013";1297
+"Gernika-Bermeo";"Medio-superiores";"Hombres";"2014";1266
+"Gernika-Bermeo";"Medio-superiores";"Hombres";"2015";1235
+"Gernika-Bermeo";"Medio-superiores";"Hombres";"2016";1249
+"Gernika-Bermeo";"Medio-superiores";"Hombres";"2018";1212
+"Gernika-Bermeo";"Medio-superiores";"Hombres";"2019";1186
+"Gernika-Bermeo";"Medio-superiores";"Hombres";"2020";1133
+"Gernika-Bermeo";"Medio-superiores";"Mujeres";"2010";2406
+"Gernika-Bermeo";"Medio-superiores";"Mujeres";"2013";2248
+"Gernika-Bermeo";"Medio-superiores";"Mujeres";"2014";2221
+"Gernika-Bermeo";"Medio-superiores";"Mujeres";"2015";2155
+"Gernika-Bermeo";"Medio-superiores";"Mujeres";"2016";2198
+"Gernika-Bermeo";"Medio-superiores";"Mujeres";"2018";2178
+"Gernika-Bermeo";"Medio-superiores";"Mujeres";"2019";2103
+"Gernika-Bermeo";"Medio-superiores";"Mujeres";"2020";2033
+"Gernika-Bermeo";"Superiores";"Hombres";"2010";2941
+"Gernika-Bermeo";"Superiores";"Hombres";"2013";3284
+"Gernika-Bermeo";"Superiores";"Hombres";"2014";3340
+"Gernika-Bermeo";"Superiores";"Hombres";"2015";3317
+"Gernika-Bermeo";"Superiores";"Hombres";"2016";3326
+"Gernika-Bermeo";"Superiores";"Hombres";"2018";3549
+"Gernika-Bermeo";"Superiores";"Hombres";"2019";3606
+"Gernika-Bermeo";"Superiores";"Hombres";"2020";3725
+"Gernika-Bermeo";"Superiores";"Mujeres";"2010";2899
+"Gernika-Bermeo";"Superiores";"Mujeres";"2013";3276
+"Gernika-Bermeo";"Superiores";"Mujeres";"2014";3386
+"Gernika-Bermeo";"Superiores";"Mujeres";"2015";3398
+"Gernika-Bermeo";"Superiores";"Mujeres";"2016";3540
+"Gernika-Bermeo";"Superiores";"Mujeres";"2018";3850
+"Gernika-Bermeo";"Superiores";"Mujeres";"2019";4008
+"Gernika-Bermeo";"Superiores";"Mujeres";"2020";4236
+"Goierri";"Analfabetos";"Hombres";"2010";202
+"Goierri";"Analfabetos";"Hombres";"2013";151
+"Goierri";"Analfabetos";"Hombres";"2014";141
+"Goierri";"Analfabetos";"Hombres";"2015";141
+"Goierri";"Analfabetos";"Hombres";"2016";129
+"Goierri";"Analfabetos";"Hombres";"2018";111
+"Goierri";"Analfabetos";"Hombres";"2019";108
+"Goierri";"Analfabetos";"Hombres";"2020";99
+"Goierri";"Analfabetos";"Mujeres";"2010";252
+"Goierri";"Analfabetos";"Mujeres";"2013";223
+"Goierri";"Analfabetos";"Mujeres";"2014";205
+"Goierri";"Analfabetos";"Mujeres";"2015";194
+"Goierri";"Analfabetos";"Mujeres";"2016";181
+"Goierri";"Analfabetos";"Mujeres";"2018";174
+"Goierri";"Analfabetos";"Mujeres";"2019";155
+"Goierri";"Analfabetos";"Mujeres";"2020";147
+"Goierri";"Sin estudios";"Hombres";"2010";1051
+"Goierri";"Sin estudios";"Hombres";"2013";905
+"Goierri";"Sin estudios";"Hombres";"2014";875
+"Goierri";"Sin estudios";"Hombres";"2015";819
+"Goierri";"Sin estudios";"Hombres";"2016";778
+"Goierri";"Sin estudios";"Hombres";"2018";743
+"Goierri";"Sin estudios";"Hombres";"2019";727
+"Goierri";"Sin estudios";"Hombres";"2020";688
+"Goierri";"Sin estudios";"Mujeres";"2010";1586
+"Goierri";"Sin estudios";"Mujeres";"2013";1415
+"Goierri";"Sin estudios";"Mujeres";"2014";1367
+"Goierri";"Sin estudios";"Mujeres";"2015";1317
+"Goierri";"Sin estudios";"Mujeres";"2016";1254
+"Goierri";"Sin estudios";"Mujeres";"2018";1200
+"Goierri";"Sin estudios";"Mujeres";"2019";1154
+"Goierri";"Sin estudios";"Mujeres";"2020";1076
+"Goierri";"Primarios";"Hombres";"2010";11525
+"Goierri";"Primarios";"Hombres";"2013";11003
+"Goierri";"Primarios";"Hombres";"2014";10844
+"Goierri";"Primarios";"Hombres";"2015";10700
+"Goierri";"Primarios";"Hombres";"2016";10507
+"Goierri";"Primarios";"Hombres";"2018";10089
+"Goierri";"Primarios";"Hombres";"2019";9845
+"Goierri";"Primarios";"Hombres";"2020";9755
+"Goierri";"Primarios";"Mujeres";"2010";12128
+"Goierri";"Primarios";"Mujeres";"2013";11764
+"Goierri";"Primarios";"Mujeres";"2014";11618
+"Goierri";"Primarios";"Mujeres";"2015";11547
+"Goierri";"Primarios";"Mujeres";"2016";11345
+"Goierri";"Primarios";"Mujeres";"2018";11112
+"Goierri";"Primarios";"Mujeres";"2019";10828
+"Goierri";"Primarios";"Mujeres";"2020";10715
+"Goierri";"Profesionales";"Hombres";"2010";6815
+"Goierri";"Profesionales";"Hombres";"2013";7604
+"Goierri";"Profesionales";"Hombres";"2014";7704
+"Goierri";"Profesionales";"Hombres";"2015";7820
+"Goierri";"Profesionales";"Hombres";"2016";7960
+"Goierri";"Profesionales";"Hombres";"2018";8217
+"Goierri";"Profesionales";"Hombres";"2019";8588
+"Goierri";"Profesionales";"Hombres";"2020";8881
+"Goierri";"Profesionales";"Mujeres";"2010";3349
+"Goierri";"Profesionales";"Mujeres";"2013";3848
+"Goierri";"Profesionales";"Mujeres";"2014";3921
+"Goierri";"Profesionales";"Mujeres";"2015";3943
+"Goierri";"Profesionales";"Mujeres";"2016";4035
+"Goierri";"Profesionales";"Mujeres";"2018";4240
+"Goierri";"Profesionales";"Mujeres";"2019";4551
+"Goierri";"Profesionales";"Mujeres";"2020";4739
+"Goierri";"Secundarios";"Hombres";"2010";6442
+"Goierri";"Secundarios";"Hombres";"2013";6159
+"Goierri";"Secundarios";"Hombres";"2014";6141
+"Goierri";"Secundarios";"Hombres";"2015";6181
+"Goierri";"Secundarios";"Hombres";"2016";6133
+"Goierri";"Secundarios";"Hombres";"2018";6351
+"Goierri";"Secundarios";"Hombres";"2019";6454
+"Goierri";"Secundarios";"Hombres";"2020";6479
+"Goierri";"Secundarios";"Mujeres";"2010";5662
+"Goierri";"Secundarios";"Mujeres";"2013";5658
+"Goierri";"Secundarios";"Mujeres";"2014";5640
+"Goierri";"Secundarios";"Mujeres";"2015";5746
+"Goierri";"Secundarios";"Mujeres";"2016";5728
+"Goierri";"Secundarios";"Mujeres";"2018";5923
+"Goierri";"Secundarios";"Mujeres";"2019";6006
+"Goierri";"Secundarios";"Mujeres";"2020";6079
+"Goierri";"Medio-superiores";"Hombres";"2010";1794
+"Goierri";"Medio-superiores";"Hombres";"2013";1565
+"Goierri";"Medio-superiores";"Hombres";"2014";1530
+"Goierri";"Medio-superiores";"Hombres";"2015";1510
+"Goierri";"Medio-superiores";"Hombres";"2016";1501
+"Goierri";"Medio-superiores";"Hombres";"2018";1482
+"Goierri";"Medio-superiores";"Hombres";"2019";1444
+"Goierri";"Medio-superiores";"Hombres";"2020";1394
+"Goierri";"Medio-superiores";"Mujeres";"2010";2964
+"Goierri";"Medio-superiores";"Mujeres";"2013";2737
+"Goierri";"Medio-superiores";"Mujeres";"2014";2664
+"Goierri";"Medio-superiores";"Mujeres";"2015";2622
+"Goierri";"Medio-superiores";"Mujeres";"2016";2658
+"Goierri";"Medio-superiores";"Mujeres";"2018";2621
+"Goierri";"Medio-superiores";"Mujeres";"2019";2518
+"Goierri";"Medio-superiores";"Mujeres";"2020";2413
+"Goierri";"Superiores";"Hombres";"2010";2613
+"Goierri";"Superiores";"Hombres";"2013";2953
+"Goierri";"Superiores";"Hombres";"2014";3110
+"Goierri";"Superiores";"Hombres";"2015";3145
+"Goierri";"Superiores";"Hombres";"2016";3223
+"Goierri";"Superiores";"Hombres";"2018";3516
+"Goierri";"Superiores";"Hombres";"2019";3637
+"Goierri";"Superiores";"Hombres";"2020";3805
+"Goierri";"Superiores";"Mujeres";"2010";3626
+"Goierri";"Superiores";"Mujeres";"2013";4121
+"Goierri";"Superiores";"Mujeres";"2014";4372
+"Goierri";"Superiores";"Mujeres";"2015";4510
+"Goierri";"Superiores";"Mujeres";"2016";4712
+"Goierri";"Superiores";"Mujeres";"2018";5153
+"Goierri";"Superiores";"Mujeres";"2019";5424
+"Goierri";"Superiores";"Mujeres";"2020";5694
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Hombres";"2010";8
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Hombres";"2013";6
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Hombres";"2014";6
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Hombres";"2015";8
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Hombres";"2016";6
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Hombres";"2018";5
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Hombres";"2019";5
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Hombres";"2020";5
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Mujeres";"2010";14
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Mujeres";"2013";9
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Mujeres";"2014";9
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Mujeres";"2015";8
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Mujeres";"2016";6
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Mujeres";"2018";5
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Mujeres";"2019";5
+"Gorbeialdea / Estribaciones del Gorbea";"Analfabetos";"Mujeres";"2020";6
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Hombres";"2010";71
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Hombres";"2013";59
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Hombres";"2014";47
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Hombres";"2015";43
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Hombres";"2016";41
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Hombres";"2018";40
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Hombres";"2019";46
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Hombres";"2020";42
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Mujeres";"2010";77
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Mujeres";"2013";71
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Mujeres";"2014";62
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Mujeres";"2015";65
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Mujeres";"2016";55
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Mujeres";"2018";59
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Mujeres";"2019";52
+"Gorbeialdea / Estribaciones del Gorbea";"Sin estudios";"Mujeres";"2020";55
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Hombres";"2010";1334
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Hombres";"2013";1299
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Hombres";"2014";1277
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Hombres";"2015";1272
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Hombres";"2016";1266
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Hombres";"2018";1205
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Hombres";"2019";1157
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Hombres";"2020";1132
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Mujeres";"2010";1233
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Mujeres";"2013";1145
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Mujeres";"2014";1152
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Mujeres";"2015";1137
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Mujeres";"2016";1123
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Mujeres";"2018";1093
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Mujeres";"2019";1057
+"Gorbeialdea / Estribaciones del Gorbea";"Primarios";"Mujeres";"2020";1050
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Hombres";"2010";917
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Hombres";"2013";1029
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Hombres";"2014";1034
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Hombres";"2015";1046
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Hombres";"2016";1058
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Hombres";"2018";1078
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Hombres";"2019";1122
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Hombres";"2020";1184
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Mujeres";"2010";496
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Mujeres";"2013";552
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Mujeres";"2014";537
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Mujeres";"2015";545
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Mujeres";"2016";570
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Mujeres";"2018";591
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Mujeres";"2019";640
+"Gorbeialdea / Estribaciones del Gorbea";"Profesionales";"Mujeres";"2020";654
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Hombres";"2010";830
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Hombres";"2013";841
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Hombres";"2014";837
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Hombres";"2015";868
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Hombres";"2016";872
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Hombres";"2018";896
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Hombres";"2019";914
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Hombres";"2020";893
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Mujeres";"2010";700
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Mujeres";"2013";748
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Mujeres";"2014";742
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Mujeres";"2015";763
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Mujeres";"2016";754
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Mujeres";"2018";787
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Mujeres";"2019";786
+"Gorbeialdea / Estribaciones del Gorbea";"Secundarios";"Mujeres";"2020";789
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Hombres";"2010";295
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Hombres";"2013";288
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Hombres";"2014";292
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Hombres";"2015";285
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Hombres";"2016";280
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Hombres";"2018";270
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Hombres";"2019";248
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Hombres";"2020";242
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Mujeres";"2010";452
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Mujeres";"2013";431
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Mujeres";"2014";424
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Mujeres";"2015";412
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Mujeres";"2016";405
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Mujeres";"2018";392
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Mujeres";"2019";381
+"Gorbeialdea / Estribaciones del Gorbea";"Medio-superiores";"Mujeres";"2020";364
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Hombres";"2010";540
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Hombres";"2013";630
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Hombres";"2014";631
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Hombres";"2015";631
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Hombres";"2016";646
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Hombres";"2018";685
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Hombres";"2019";721
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Hombres";"2020";742
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Mujeres";"2010";589
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Mujeres";"2013";719
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Mujeres";"2014";715
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Mujeres";"2015";733
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Mujeres";"2016";758
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Mujeres";"2018";834
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Mujeres";"2019";873
+"Gorbeialdea / Estribaciones del Gorbea";"Superiores";"Mujeres";"2020";913
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Hombres";"2010";48
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Hombres";"2013";45
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Hombres";"2014";41
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Hombres";"2015";39
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Hombres";"2016";37
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Hombres";"2018";38
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Hombres";"2019";32
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Hombres";"2020";32
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Mujeres";"2010";105
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Mujeres";"2013";87
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Mujeres";"2014";80
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Mujeres";"2015";86
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Mujeres";"2016";79
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Mujeres";"2018";76
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Mujeres";"2019";70
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Analfabetos";"Mujeres";"2020";66
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Hombres";"2010";326
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Hombres";"2013";288
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Hombres";"2014";272
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Hombres";"2015";268
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Hombres";"2016";257
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Hombres";"2018";245
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Hombres";"2019";228
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Hombres";"2020";210
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Mujeres";"2010";467
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Mujeres";"2013";411
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Mujeres";"2014";413
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Mujeres";"2015";403
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Mujeres";"2016";371
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Mujeres";"2018";371
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Mujeres";"2019";360
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Sin estudios";"Mujeres";"2020";343
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Hombres";"2010";5825
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Hombres";"2013";5588
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Hombres";"2014";5496
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Hombres";"2015";5423
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Hombres";"2016";5296
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Hombres";"2018";5090
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Hombres";"2019";4864
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Hombres";"2020";4793
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Mujeres";"2010";6690
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Mujeres";"2013";6535
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Mujeres";"2014";6439
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Mujeres";"2015";6365
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Mujeres";"2016";6279
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Mujeres";"2018";6135
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Mujeres";"2019";6036
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Primarios";"Mujeres";"2020";5863
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Hombres";"2010";3509
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Hombres";"2013";3870
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Hombres";"2014";3956
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Hombres";"2015";4001
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Hombres";"2016";4076
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Hombres";"2018";4176
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Hombres";"2019";4359
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Hombres";"2020";4468
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Mujeres";"2010";2149
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Mujeres";"2013";2420
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Mujeres";"2014";2461
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Mujeres";"2015";2481
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Mujeres";"2016";2496
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Mujeres";"2018";2564
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Mujeres";"2019";2686
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Profesionales";"Mujeres";"2020";2821
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Hombres";"2010";3373
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Hombres";"2013";3206
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Hombres";"2014";3164
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Hombres";"2015";3177
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Hombres";"2016";3193
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Hombres";"2018";3328
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Hombres";"2019";3340
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Hombres";"2020";3297
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Mujeres";"2010";2849
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Mujeres";"2013";2883
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Mujeres";"2014";2871
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Mujeres";"2015";2931
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Mujeres";"2016";2896
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Mujeres";"2018";2983
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Mujeres";"2019";3004
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Secundarios";"Mujeres";"2020";2997
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Hombres";"2010";899
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Hombres";"2013";783
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Hombres";"2014";766
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Hombres";"2015";763
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Hombres";"2016";777
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Hombres";"2018";747
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Hombres";"2019";700
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Hombres";"2020";655
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Mujeres";"2010";1434
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Mujeres";"2013";1307
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Mujeres";"2014";1297
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Mujeres";"2015";1263
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Mujeres";"2016";1310
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Mujeres";"2018";1267
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Mujeres";"2019";1232
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Medio-superiores";"Mujeres";"2020";1190
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Hombres";"2010";1527
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Hombres";"2013";1709
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Hombres";"2014";1756
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Hombres";"2015";1702
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Hombres";"2016";1697
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Hombres";"2018";1796
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Hombres";"2019";1835
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Hombres";"2020";1905
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Mujeres";"2010";2040
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Mujeres";"2013";2250
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Mujeres";"2014";2328
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Mujeres";"2015";2347
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Mujeres";"2016";2393
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Mujeres";"2018";2621
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Mujeres";"2019";2707
+"Arabako Kantaurialdea / Cantábrica Alavesa";"Superiores";"Mujeres";"2020";2828
+"Markina-Ondarroa";"Analfabetos";"Hombres";"2010";113
+"Markina-Ondarroa";"Analfabetos";"Hombres";"2013";60
+"Markina-Ondarroa";"Analfabetos";"Hombres";"2014";55
+"Markina-Ondarroa";"Analfabetos";"Hombres";"2015";62
+"Markina-Ondarroa";"Analfabetos";"Hombres";"2016";57
+"Markina-Ondarroa";"Analfabetos";"Hombres";"2018";50
+"Markina-Ondarroa";"Analfabetos";"Hombres";"2019";49
+"Markina-Ondarroa";"Analfabetos";"Hombres";"2020";42
+"Markina-Ondarroa";"Analfabetos";"Mujeres";"2010";64
+"Markina-Ondarroa";"Analfabetos";"Mujeres";"2013";41
+"Markina-Ondarroa";"Analfabetos";"Mujeres";"2014";41
+"Markina-Ondarroa";"Analfabetos";"Mujeres";"2015";40
+"Markina-Ondarroa";"Analfabetos";"Mujeres";"2016";40
+"Markina-Ondarroa";"Analfabetos";"Mujeres";"2018";33
+"Markina-Ondarroa";"Analfabetos";"Mujeres";"2019";31
+"Markina-Ondarroa";"Analfabetos";"Mujeres";"2020";29
+"Markina-Ondarroa";"Sin estudios";"Hombres";"2010";345
+"Markina-Ondarroa";"Sin estudios";"Hombres";"2013";292
+"Markina-Ondarroa";"Sin estudios";"Hombres";"2014";273
+"Markina-Ondarroa";"Sin estudios";"Hombres";"2015";280
+"Markina-Ondarroa";"Sin estudios";"Hombres";"2016";262
+"Markina-Ondarroa";"Sin estudios";"Hombres";"2018";266
+"Markina-Ondarroa";"Sin estudios";"Hombres";"2019";253
+"Markina-Ondarroa";"Sin estudios";"Hombres";"2020";253
+"Markina-Ondarroa";"Sin estudios";"Mujeres";"2010";405
+"Markina-Ondarroa";"Sin estudios";"Mujeres";"2013";358
+"Markina-Ondarroa";"Sin estudios";"Mujeres";"2014";329
+"Markina-Ondarroa";"Sin estudios";"Mujeres";"2015";306
+"Markina-Ondarroa";"Sin estudios";"Mujeres";"2016";290
+"Markina-Ondarroa";"Sin estudios";"Mujeres";"2018";284
+"Markina-Ondarroa";"Sin estudios";"Mujeres";"2019";275
+"Markina-Ondarroa";"Sin estudios";"Mujeres";"2020";261
+"Markina-Ondarroa";"Primarios";"Hombres";"2010";4812
+"Markina-Ondarroa";"Primarios";"Hombres";"2013";4475
+"Markina-Ondarroa";"Primarios";"Hombres";"2014";4378
+"Markina-Ondarroa";"Primarios";"Hombres";"2015";4326
+"Markina-Ondarroa";"Primarios";"Hombres";"2016";4252
+"Markina-Ondarroa";"Primarios";"Hombres";"2018";4077
+"Markina-Ondarroa";"Primarios";"Hombres";"2019";3926
+"Markina-Ondarroa";"Primarios";"Hombres";"2020";3879
+"Markina-Ondarroa";"Primarios";"Mujeres";"2010";5591
+"Markina-Ondarroa";"Primarios";"Mujeres";"2013";5349
+"Markina-Ondarroa";"Primarios";"Mujeres";"2014";5282
+"Markina-Ondarroa";"Primarios";"Mujeres";"2015";5148
+"Markina-Ondarroa";"Primarios";"Mujeres";"2016";5028
+"Markina-Ondarroa";"Primarios";"Mujeres";"2018";4791
+"Markina-Ondarroa";"Primarios";"Mujeres";"2019";4629
+"Markina-Ondarroa";"Primarios";"Mujeres";"2020";4553
+"Markina-Ondarroa";"Profesionales";"Hombres";"2010";2343
+"Markina-Ondarroa";"Profesionales";"Hombres";"2013";2678
+"Markina-Ondarroa";"Profesionales";"Hombres";"2014";2702
+"Markina-Ondarroa";"Profesionales";"Hombres";"2015";2762
+"Markina-Ondarroa";"Profesionales";"Hombres";"2016";2839
+"Markina-Ondarroa";"Profesionales";"Hombres";"2018";2948
+"Markina-Ondarroa";"Profesionales";"Hombres";"2019";3118
+"Markina-Ondarroa";"Profesionales";"Hombres";"2020";3227
+"Markina-Ondarroa";"Profesionales";"Mujeres";"2010";1325
+"Markina-Ondarroa";"Profesionales";"Mujeres";"2013";1455
+"Markina-Ondarroa";"Profesionales";"Mujeres";"2014";1464
+"Markina-Ondarroa";"Profesionales";"Mujeres";"2015";1487
+"Markina-Ondarroa";"Profesionales";"Mujeres";"2016";1514
+"Markina-Ondarroa";"Profesionales";"Mujeres";"2018";1570
+"Markina-Ondarroa";"Profesionales";"Mujeres";"2019";1700
+"Markina-Ondarroa";"Profesionales";"Mujeres";"2020";1770
+"Markina-Ondarroa";"Secundarios";"Hombres";"2010";2502
+"Markina-Ondarroa";"Secundarios";"Hombres";"2013";2433
+"Markina-Ondarroa";"Secundarios";"Hombres";"2014";2401
+"Markina-Ondarroa";"Secundarios";"Hombres";"2015";2418
+"Markina-Ondarroa";"Secundarios";"Hombres";"2016";2408
+"Markina-Ondarroa";"Secundarios";"Hombres";"2018";2492
+"Markina-Ondarroa";"Secundarios";"Hombres";"2019";2481
+"Markina-Ondarroa";"Secundarios";"Hombres";"2020";2418
+"Markina-Ondarroa";"Secundarios";"Mujeres";"2010";2003
+"Markina-Ondarroa";"Secundarios";"Mujeres";"2013";2041
+"Markina-Ondarroa";"Secundarios";"Mujeres";"2014";2049
+"Markina-Ondarroa";"Secundarios";"Mujeres";"2015";2076
+"Markina-Ondarroa";"Secundarios";"Mujeres";"2016";2076
+"Markina-Ondarroa";"Secundarios";"Mujeres";"2018";2171
+"Markina-Ondarroa";"Secundarios";"Mujeres";"2019";2196
+"Markina-Ondarroa";"Secundarios";"Mujeres";"2020";2185
+"Markina-Ondarroa";"Medio-superiores";"Hombres";"2010";783
+"Markina-Ondarroa";"Medio-superiores";"Hombres";"2013";683
+"Markina-Ondarroa";"Medio-superiores";"Hombres";"2014";676
+"Markina-Ondarroa";"Medio-superiores";"Hombres";"2015";652
+"Markina-Ondarroa";"Medio-superiores";"Hombres";"2016";657
+"Markina-Ondarroa";"Medio-superiores";"Hombres";"2018";652
+"Markina-Ondarroa";"Medio-superiores";"Hombres";"2019";648
+"Markina-Ondarroa";"Medio-superiores";"Hombres";"2020";617
+"Markina-Ondarroa";"Medio-superiores";"Mujeres";"2010";1132
+"Markina-Ondarroa";"Medio-superiores";"Mujeres";"2013";1080
+"Markina-Ondarroa";"Medio-superiores";"Mujeres";"2014";1061
+"Markina-Ondarroa";"Medio-superiores";"Mujeres";"2015";1025
+"Markina-Ondarroa";"Medio-superiores";"Mujeres";"2016";1065
+"Markina-Ondarroa";"Medio-superiores";"Mujeres";"2018";1058
+"Markina-Ondarroa";"Medio-superiores";"Mujeres";"2019";1028
+"Markina-Ondarroa";"Medio-superiores";"Mujeres";"2020";961
+"Markina-Ondarroa";"Superiores";"Hombres";"2010";1288
+"Markina-Ondarroa";"Superiores";"Hombres";"2013";1483
+"Markina-Ondarroa";"Superiores";"Hombres";"2014";1552
+"Markina-Ondarroa";"Superiores";"Hombres";"2015";1530
+"Markina-Ondarroa";"Superiores";"Hombres";"2016";1530
+"Markina-Ondarroa";"Superiores";"Hombres";"2018";1586
+"Markina-Ondarroa";"Superiores";"Hombres";"2019";1654
+"Markina-Ondarroa";"Superiores";"Hombres";"2020";1727
+"Markina-Ondarroa";"Superiores";"Mujeres";"2010";1368
+"Markina-Ondarroa";"Superiores";"Mujeres";"2013";1520
+"Markina-Ondarroa";"Superiores";"Mujeres";"2014";1603
+"Markina-Ondarroa";"Superiores";"Mujeres";"2015";1638
+"Markina-Ondarroa";"Superiores";"Mujeres";"2016";1700
+"Markina-Ondarroa";"Superiores";"Mujeres";"2018";1858
+"Markina-Ondarroa";"Superiores";"Mujeres";"2019";1959
+"Markina-Ondarroa";"Superiores";"Mujeres";"2020";2095
+"Plentzia-Mungia";"Analfabetos";"Hombres";"2010";34
+"Plentzia-Mungia";"Analfabetos";"Hombres";"2013";35
+"Plentzia-Mungia";"Analfabetos";"Hombres";"2014";35
+"Plentzia-Mungia";"Analfabetos";"Hombres";"2015";38
+"Plentzia-Mungia";"Analfabetos";"Hombres";"2016";34
+"Plentzia-Mungia";"Analfabetos";"Hombres";"2018";34
+"Plentzia-Mungia";"Analfabetos";"Hombres";"2019";30
+"Plentzia-Mungia";"Analfabetos";"Hombres";"2020";28
+"Plentzia-Mungia";"Analfabetos";"Mujeres";"2010";58
+"Plentzia-Mungia";"Analfabetos";"Mujeres";"2013";54
+"Plentzia-Mungia";"Analfabetos";"Mujeres";"2014";51
+"Plentzia-Mungia";"Analfabetos";"Mujeres";"2015";46
+"Plentzia-Mungia";"Analfabetos";"Mujeres";"2016";43
+"Plentzia-Mungia";"Analfabetos";"Mujeres";"2018";37
+"Plentzia-Mungia";"Analfabetos";"Mujeres";"2019";34
+"Plentzia-Mungia";"Analfabetos";"Mujeres";"2020";34
+"Plentzia-Mungia";"Sin estudios";"Hombres";"2010";359
+"Plentzia-Mungia";"Sin estudios";"Hombres";"2013";307
+"Plentzia-Mungia";"Sin estudios";"Hombres";"2014";299
+"Plentzia-Mungia";"Sin estudios";"Hombres";"2015";277
+"Plentzia-Mungia";"Sin estudios";"Hombres";"2016";262
+"Plentzia-Mungia";"Sin estudios";"Hombres";"2018";260
+"Plentzia-Mungia";"Sin estudios";"Hombres";"2019";257
+"Plentzia-Mungia";"Sin estudios";"Hombres";"2020";264
+"Plentzia-Mungia";"Sin estudios";"Mujeres";"2010";618
+"Plentzia-Mungia";"Sin estudios";"Mujeres";"2013";515
+"Plentzia-Mungia";"Sin estudios";"Mujeres";"2014";482
+"Plentzia-Mungia";"Sin estudios";"Mujeres";"2015";445
+"Plentzia-Mungia";"Sin estudios";"Mujeres";"2016";427
+"Plentzia-Mungia";"Sin estudios";"Mujeres";"2018";433
+"Plentzia-Mungia";"Sin estudios";"Mujeres";"2019";409
+"Plentzia-Mungia";"Sin estudios";"Mujeres";"2020";386
+"Plentzia-Mungia";"Primarios";"Hombres";"2010";5983
+"Plentzia-Mungia";"Primarios";"Hombres";"2013";5772
+"Plentzia-Mungia";"Primarios";"Hombres";"2014";5588
+"Plentzia-Mungia";"Primarios";"Hombres";"2015";5603
+"Plentzia-Mungia";"Primarios";"Hombres";"2016";5522
+"Plentzia-Mungia";"Primarios";"Hombres";"2018";5295
+"Plentzia-Mungia";"Primarios";"Hombres";"2019";5240
+"Plentzia-Mungia";"Primarios";"Hombres";"2020";5147
+"Plentzia-Mungia";"Primarios";"Mujeres";"2010";7208
+"Plentzia-Mungia";"Primarios";"Mujeres";"2013";6956
+"Plentzia-Mungia";"Primarios";"Mujeres";"2014";6873
+"Plentzia-Mungia";"Primarios";"Mujeres";"2015";6780
+"Plentzia-Mungia";"Primarios";"Mujeres";"2016";6694
+"Plentzia-Mungia";"Primarios";"Mujeres";"2018";6363
+"Plentzia-Mungia";"Primarios";"Mujeres";"2019";6300
+"Plentzia-Mungia";"Primarios";"Mujeres";"2020";6179
+"Plentzia-Mungia";"Profesionales";"Hombres";"2010";4070
+"Plentzia-Mungia";"Profesionales";"Hombres";"2013";4609
+"Plentzia-Mungia";"Profesionales";"Hombres";"2014";4789
+"Plentzia-Mungia";"Profesionales";"Hombres";"2015";4834
+"Plentzia-Mungia";"Profesionales";"Hombres";"2016";4976
+"Plentzia-Mungia";"Profesionales";"Hombres";"2018";5126
+"Plentzia-Mungia";"Profesionales";"Hombres";"2019";5481
+"Plentzia-Mungia";"Profesionales";"Hombres";"2020";5598
+"Plentzia-Mungia";"Profesionales";"Mujeres";"2010";2837
+"Plentzia-Mungia";"Profesionales";"Mujeres";"2013";3173
+"Plentzia-Mungia";"Profesionales";"Mujeres";"2014";3206
+"Plentzia-Mungia";"Profesionales";"Mujeres";"2015";3288
+"Plentzia-Mungia";"Profesionales";"Mujeres";"2016";3337
+"Plentzia-Mungia";"Profesionales";"Mujeres";"2018";3446
+"Plentzia-Mungia";"Profesionales";"Mujeres";"2019";3655
+"Plentzia-Mungia";"Profesionales";"Mujeres";"2020";3808
+"Plentzia-Mungia";"Secundarios";"Hombres";"2010";5834
+"Plentzia-Mungia";"Secundarios";"Hombres";"2013";5879
+"Plentzia-Mungia";"Secundarios";"Hombres";"2014";5867
+"Plentzia-Mungia";"Secundarios";"Hombres";"2015";5956
+"Plentzia-Mungia";"Secundarios";"Hombres";"2016";5940
+"Plentzia-Mungia";"Secundarios";"Hombres";"2018";6076
+"Plentzia-Mungia";"Secundarios";"Hombres";"2019";6087
+"Plentzia-Mungia";"Secundarios";"Hombres";"2020";6189
+"Plentzia-Mungia";"Secundarios";"Mujeres";"2010";5229
+"Plentzia-Mungia";"Secundarios";"Mujeres";"2013";5403
+"Plentzia-Mungia";"Secundarios";"Mujeres";"2014";5388
+"Plentzia-Mungia";"Secundarios";"Mujeres";"2015";5556
+"Plentzia-Mungia";"Secundarios";"Mujeres";"2016";5551
+"Plentzia-Mungia";"Secundarios";"Mujeres";"2018";5691
+"Plentzia-Mungia";"Secundarios";"Mujeres";"2019";5735
+"Plentzia-Mungia";"Secundarios";"Mujeres";"2020";5777
+"Plentzia-Mungia";"Medio-superiores";"Hombres";"2010";2144
+"Plentzia-Mungia";"Medio-superiores";"Hombres";"2013";1992
+"Plentzia-Mungia";"Medio-superiores";"Hombres";"2014";1940
+"Plentzia-Mungia";"Medio-superiores";"Hombres";"2015";1923
+"Plentzia-Mungia";"Medio-superiores";"Hombres";"2016";1954
+"Plentzia-Mungia";"Medio-superiores";"Hombres";"2018";1880
+"Plentzia-Mungia";"Medio-superiores";"Hombres";"2019";1878
+"Plentzia-Mungia";"Medio-superiores";"Hombres";"2020";1804
+"Plentzia-Mungia";"Medio-superiores";"Mujeres";"2010";2968
+"Plentzia-Mungia";"Medio-superiores";"Mujeres";"2013";2901
+"Plentzia-Mungia";"Medio-superiores";"Mujeres";"2014";2908
+"Plentzia-Mungia";"Medio-superiores";"Mujeres";"2015";2880
+"Plentzia-Mungia";"Medio-superiores";"Mujeres";"2016";2940
+"Plentzia-Mungia";"Medio-superiores";"Mujeres";"2018";2856
+"Plentzia-Mungia";"Medio-superiores";"Mujeres";"2019";2791
+"Plentzia-Mungia";"Medio-superiores";"Mujeres";"2020";2690
+"Plentzia-Mungia";"Superiores";"Hombres";"2010";4936
+"Plentzia-Mungia";"Superiores";"Hombres";"2013";5467
+"Plentzia-Mungia";"Superiores";"Hombres";"2014";5661
+"Plentzia-Mungia";"Superiores";"Hombres";"2015";5711
+"Plentzia-Mungia";"Superiores";"Hombres";"2016";5824
+"Plentzia-Mungia";"Superiores";"Hombres";"2018";6109
+"Plentzia-Mungia";"Superiores";"Hombres";"2019";6244
+"Plentzia-Mungia";"Superiores";"Hombres";"2020";6497
+"Plentzia-Mungia";"Superiores";"Mujeres";"2010";5024
+"Plentzia-Mungia";"Superiores";"Mujeres";"2013";5761
+"Plentzia-Mungia";"Superiores";"Mujeres";"2014";6008
+"Plentzia-Mungia";"Superiores";"Mujeres";"2015";6119
+"Plentzia-Mungia";"Superiores";"Mujeres";"2016";6361
+"Plentzia-Mungia";"Superiores";"Mujeres";"2018";6858
+"Plentzia-Mungia";"Superiores";"Mujeres";"2019";7132
+"Plentzia-Mungia";"Superiores";"Mujeres";"2020";7533
+"Tolosaldea";"Analfabetos";"Hombres";"2010";81
+"Tolosaldea";"Analfabetos";"Hombres";"2013";66
+"Tolosaldea";"Analfabetos";"Hombres";"2014";64
+"Tolosaldea";"Analfabetos";"Hombres";"2015";59
+"Tolosaldea";"Analfabetos";"Hombres";"2016";59
+"Tolosaldea";"Analfabetos";"Hombres";"2018";57
+"Tolosaldea";"Analfabetos";"Hombres";"2019";52
+"Tolosaldea";"Analfabetos";"Hombres";"2020";46
+"Tolosaldea";"Analfabetos";"Mujeres";"2010";132
+"Tolosaldea";"Analfabetos";"Mujeres";"2013";105
+"Tolosaldea";"Analfabetos";"Mujeres";"2014";106
+"Tolosaldea";"Analfabetos";"Mujeres";"2015";99
+"Tolosaldea";"Analfabetos";"Mujeres";"2016";99
+"Tolosaldea";"Analfabetos";"Mujeres";"2018";90
+"Tolosaldea";"Analfabetos";"Mujeres";"2019";86
+"Tolosaldea";"Analfabetos";"Mujeres";"2020";83
+"Tolosaldea";"Sin estudios";"Hombres";"2010";563
+"Tolosaldea";"Sin estudios";"Hombres";"2013";480
+"Tolosaldea";"Sin estudios";"Hombres";"2014";460
+"Tolosaldea";"Sin estudios";"Hombres";"2015";448
+"Tolosaldea";"Sin estudios";"Hombres";"2016";406
+"Tolosaldea";"Sin estudios";"Hombres";"2018";418
+"Tolosaldea";"Sin estudios";"Hombres";"2019";391
+"Tolosaldea";"Sin estudios";"Hombres";"2020";392
+"Tolosaldea";"Sin estudios";"Mujeres";"2010";625
+"Tolosaldea";"Sin estudios";"Mujeres";"2013";576
+"Tolosaldea";"Sin estudios";"Mujeres";"2014";574
+"Tolosaldea";"Sin estudios";"Mujeres";"2015";563
+"Tolosaldea";"Sin estudios";"Mujeres";"2016";539
+"Tolosaldea";"Sin estudios";"Mujeres";"2018";535
+"Tolosaldea";"Sin estudios";"Mujeres";"2019";510
+"Tolosaldea";"Sin estudios";"Mujeres";"2020";519
+"Tolosaldea";"Primarios";"Hombres";"2010";8749
+"Tolosaldea";"Primarios";"Hombres";"2013";8517
+"Tolosaldea";"Primarios";"Hombres";"2014";8404
+"Tolosaldea";"Primarios";"Hombres";"2015";8299
+"Tolosaldea";"Primarios";"Hombres";"2016";8200
+"Tolosaldea";"Primarios";"Hombres";"2018";7893
+"Tolosaldea";"Primarios";"Hombres";"2019";7715
+"Tolosaldea";"Primarios";"Hombres";"2020";7593
+"Tolosaldea";"Primarios";"Mujeres";"2010";8717
+"Tolosaldea";"Primarios";"Mujeres";"2013";8449
+"Tolosaldea";"Primarios";"Mujeres";"2014";8337
+"Tolosaldea";"Primarios";"Mujeres";"2015";8324
+"Tolosaldea";"Primarios";"Mujeres";"2016";8272
+"Tolosaldea";"Primarios";"Mujeres";"2018";8002
+"Tolosaldea";"Primarios";"Mujeres";"2019";7753
+"Tolosaldea";"Primarios";"Mujeres";"2020";7632
+"Tolosaldea";"Profesionales";"Hombres";"2010";4171
+"Tolosaldea";"Profesionales";"Hombres";"2013";4816
+"Tolosaldea";"Profesionales";"Hombres";"2014";4927
+"Tolosaldea";"Profesionales";"Hombres";"2015";4989
+"Tolosaldea";"Profesionales";"Hombres";"2016";5099
+"Tolosaldea";"Profesionales";"Hombres";"2018";5344
+"Tolosaldea";"Profesionales";"Hombres";"2019";5695
+"Tolosaldea";"Profesionales";"Hombres";"2020";5999
+"Tolosaldea";"Profesionales";"Mujeres";"2010";2928
+"Tolosaldea";"Profesionales";"Mujeres";"2013";3312
+"Tolosaldea";"Profesionales";"Mujeres";"2014";3332
+"Tolosaldea";"Profesionales";"Mujeres";"2015";3362
+"Tolosaldea";"Profesionales";"Mujeres";"2016";3438
+"Tolosaldea";"Profesionales";"Mujeres";"2018";3575
+"Tolosaldea";"Profesionales";"Mujeres";"2019";3828
+"Tolosaldea";"Profesionales";"Mujeres";"2020";3943
+"Tolosaldea";"Secundarios";"Hombres";"2010";4226
+"Tolosaldea";"Secundarios";"Hombres";"2013";4172
+"Tolosaldea";"Secundarios";"Hombres";"2014";4126
+"Tolosaldea";"Secundarios";"Hombres";"2015";4240
+"Tolosaldea";"Secundarios";"Hombres";"2016";4236
+"Tolosaldea";"Secundarios";"Hombres";"2018";4461
+"Tolosaldea";"Secundarios";"Hombres";"2019";4504
+"Tolosaldea";"Secundarios";"Hombres";"2020";4412
+"Tolosaldea";"Secundarios";"Mujeres";"2010";3684
+"Tolosaldea";"Secundarios";"Mujeres";"2013";3831
+"Tolosaldea";"Secundarios";"Mujeres";"2014";3876
+"Tolosaldea";"Secundarios";"Mujeres";"2015";3988
+"Tolosaldea";"Secundarios";"Mujeres";"2016";3971
+"Tolosaldea";"Secundarios";"Mujeres";"2018";4160
+"Tolosaldea";"Secundarios";"Mujeres";"2019";4215
+"Tolosaldea";"Secundarios";"Mujeres";"2020";4242
+"Tolosaldea";"Medio-superiores";"Hombres";"2010";1180
+"Tolosaldea";"Medio-superiores";"Hombres";"2013";1031
+"Tolosaldea";"Medio-superiores";"Hombres";"2014";1008
+"Tolosaldea";"Medio-superiores";"Hombres";"2015";983
+"Tolosaldea";"Medio-superiores";"Hombres";"2016";1010
+"Tolosaldea";"Medio-superiores";"Hombres";"2018";977
+"Tolosaldea";"Medio-superiores";"Hombres";"2019";958
+"Tolosaldea";"Medio-superiores";"Hombres";"2020";920
+"Tolosaldea";"Medio-superiores";"Mujeres";"2010";2047
+"Tolosaldea";"Medio-superiores";"Mujeres";"2013";1921
+"Tolosaldea";"Medio-superiores";"Mujeres";"2014";1916
+"Tolosaldea";"Medio-superiores";"Mujeres";"2015";1868
+"Tolosaldea";"Medio-superiores";"Mujeres";"2016";1917
+"Tolosaldea";"Medio-superiores";"Mujeres";"2018";1897
+"Tolosaldea";"Medio-superiores";"Mujeres";"2019";1869
+"Tolosaldea";"Medio-superiores";"Mujeres";"2020";1765
+"Tolosaldea";"Superiores";"Hombres";"2010";1930
+"Tolosaldea";"Superiores";"Hombres";"2013";2272
+"Tolosaldea";"Superiores";"Hombres";"2014";2360
+"Tolosaldea";"Superiores";"Hombres";"2015";2421
+"Tolosaldea";"Superiores";"Hombres";"2016";2463
+"Tolosaldea";"Superiores";"Hombres";"2018";2622
+"Tolosaldea";"Superiores";"Hombres";"2019";2738
+"Tolosaldea";"Superiores";"Hombres";"2020";2875
+"Tolosaldea";"Superiores";"Mujeres";"2010";2514
+"Tolosaldea";"Superiores";"Mujeres";"2013";3004
+"Tolosaldea";"Superiores";"Mujeres";"2014";3148
+"Tolosaldea";"Superiores";"Mujeres";"2015";3228
+"Tolosaldea";"Superiores";"Mujeres";"2016";3328
+"Tolosaldea";"Superiores";"Mujeres";"2018";3712
+"Tolosaldea";"Superiores";"Mujeres";"2019";3920
+"Tolosaldea";"Superiores";"Mujeres";"2020";4223
+"Urola Kosta";"Analfabetos";"Hombres";"2010";107
+"Urola Kosta";"Analfabetos";"Hombres";"2013";89
+"Urola Kosta";"Analfabetos";"Hombres";"2014";91
+"Urola Kosta";"Analfabetos";"Hombres";"2015";85
+"Urola Kosta";"Analfabetos";"Hombres";"2016";73
+"Urola Kosta";"Analfabetos";"Hombres";"2018";73
+"Urola Kosta";"Analfabetos";"Hombres";"2019";72
+"Urola Kosta";"Analfabetos";"Hombres";"2020";67
+"Urola Kosta";"Analfabetos";"Mujeres";"2010";181
+"Urola Kosta";"Analfabetos";"Mujeres";"2013";163
+"Urola Kosta";"Analfabetos";"Mujeres";"2014";155
+"Urola Kosta";"Analfabetos";"Mujeres";"2015";151
+"Urola Kosta";"Analfabetos";"Mujeres";"2016";139
+"Urola Kosta";"Analfabetos";"Mujeres";"2018";113
+"Urola Kosta";"Analfabetos";"Mujeres";"2019";111
+"Urola Kosta";"Analfabetos";"Mujeres";"2020";107
+"Urola Kosta";"Sin estudios";"Hombres";"2010";710
+"Urola Kosta";"Sin estudios";"Hombres";"2013";635
+"Urola Kosta";"Sin estudios";"Hombres";"2014";607
+"Urola Kosta";"Sin estudios";"Hombres";"2015";586
+"Urola Kosta";"Sin estudios";"Hombres";"2016";565
+"Urola Kosta";"Sin estudios";"Hombres";"2018";584
+"Urola Kosta";"Sin estudios";"Hombres";"2019";575
+"Urola Kosta";"Sin estudios";"Hombres";"2020";551
+"Urola Kosta";"Sin estudios";"Mujeres";"2010";869
+"Urola Kosta";"Sin estudios";"Mujeres";"2013";768
+"Urola Kosta";"Sin estudios";"Mujeres";"2014";743
+"Urola Kosta";"Sin estudios";"Mujeres";"2015";753
+"Urola Kosta";"Sin estudios";"Mujeres";"2016";716
+"Urola Kosta";"Sin estudios";"Mujeres";"2018";708
+"Urola Kosta";"Sin estudios";"Mujeres";"2019";681
+"Urola Kosta";"Sin estudios";"Mujeres";"2020";645
+"Urola Kosta";"Primarios";"Hombres";"2010";12378
+"Urola Kosta";"Primarios";"Hombres";"2013";11936
+"Urola Kosta";"Primarios";"Hombres";"2014";11853
+"Urola Kosta";"Primarios";"Hombres";"2015";11700
+"Urola Kosta";"Primarios";"Hombres";"2016";11449
+"Urola Kosta";"Primarios";"Hombres";"2018";10940
+"Urola Kosta";"Primarios";"Hombres";"2019";10667
+"Urola Kosta";"Primarios";"Hombres";"2020";10513
+"Urola Kosta";"Primarios";"Mujeres";"2010";12843
+"Urola Kosta";"Primarios";"Mujeres";"2013";12506
+"Urola Kosta";"Primarios";"Mujeres";"2014";12405
+"Urola Kosta";"Primarios";"Mujeres";"2015";12240
+"Urola Kosta";"Primarios";"Mujeres";"2016";12056
+"Urola Kosta";"Primarios";"Mujeres";"2018";11608
+"Urola Kosta";"Primarios";"Mujeres";"2019";11350
+"Urola Kosta";"Primarios";"Mujeres";"2020";11228
+"Urola Kosta";"Profesionales";"Hombres";"2010";6046
+"Urola Kosta";"Profesionales";"Hombres";"2013";6977
+"Urola Kosta";"Profesionales";"Hombres";"2014";7156
+"Urola Kosta";"Profesionales";"Hombres";"2015";7364
+"Urola Kosta";"Profesionales";"Hombres";"2016";7555
+"Urola Kosta";"Profesionales";"Hombres";"2018";7919
+"Urola Kosta";"Profesionales";"Hombres";"2019";8323
+"Urola Kosta";"Profesionales";"Hombres";"2020";8675
+"Urola Kosta";"Profesionales";"Mujeres";"2010";3914
+"Urola Kosta";"Profesionales";"Mujeres";"2013";4397
+"Urola Kosta";"Profesionales";"Mujeres";"2014";4559
+"Urola Kosta";"Profesionales";"Mujeres";"2015";4675
+"Urola Kosta";"Profesionales";"Mujeres";"2016";4749
+"Urola Kosta";"Profesionales";"Mujeres";"2018";4982
+"Urola Kosta";"Profesionales";"Mujeres";"2019";5317
+"Urola Kosta";"Profesionales";"Mujeres";"2020";5503
+"Urola Kosta";"Secundarios";"Hombres";"2010";7160
+"Urola Kosta";"Secundarios";"Hombres";"2013";7057
+"Urola Kosta";"Secundarios";"Hombres";"2014";6995
+"Urola Kosta";"Secundarios";"Hombres";"2015";7150
+"Urola Kosta";"Secundarios";"Hombres";"2016";7187
+"Urola Kosta";"Secundarios";"Hombres";"2018";7275
+"Urola Kosta";"Secundarios";"Hombres";"2019";7274
+"Urola Kosta";"Secundarios";"Hombres";"2020";7220
+"Urola Kosta";"Secundarios";"Mujeres";"2010";6546
+"Urola Kosta";"Secundarios";"Mujeres";"2013";6597
+"Urola Kosta";"Secundarios";"Mujeres";"2014";6486
+"Urola Kosta";"Secundarios";"Mujeres";"2015";6667
+"Urola Kosta";"Secundarios";"Mujeres";"2016";6654
+"Urola Kosta";"Secundarios";"Mujeres";"2018";6814
+"Urola Kosta";"Secundarios";"Mujeres";"2019";6816
+"Urola Kosta";"Secundarios";"Mujeres";"2020";6811
+"Urola Kosta";"Medio-superiores";"Hombres";"2010";2087
+"Urola Kosta";"Medio-superiores";"Hombres";"2013";1836
+"Urola Kosta";"Medio-superiores";"Hombres";"2014";1830
+"Urola Kosta";"Medio-superiores";"Hombres";"2015";1810
+"Urola Kosta";"Medio-superiores";"Hombres";"2016";1828
+"Urola Kosta";"Medio-superiores";"Hombres";"2018";1788
+"Urola Kosta";"Medio-superiores";"Hombres";"2019";1744
+"Urola Kosta";"Medio-superiores";"Hombres";"2020";1657
+"Urola Kosta";"Medio-superiores";"Mujeres";"2010";3138
+"Urola Kosta";"Medio-superiores";"Mujeres";"2013";2949
+"Urola Kosta";"Medio-superiores";"Mujeres";"2014";2949
+"Urola Kosta";"Medio-superiores";"Mujeres";"2015";2920
+"Urola Kosta";"Medio-superiores";"Mujeres";"2016";3004
+"Urola Kosta";"Medio-superiores";"Mujeres";"2018";2944
+"Urola Kosta";"Medio-superiores";"Mujeres";"2019";2887
+"Urola Kosta";"Medio-superiores";"Mujeres";"2020";2756
+"Urola Kosta";"Superiores";"Hombres";"2010";3644
+"Urola Kosta";"Superiores";"Hombres";"2013";4228
+"Urola Kosta";"Superiores";"Hombres";"2014";4487
+"Urola Kosta";"Superiores";"Hombres";"2015";4589
+"Urola Kosta";"Superiores";"Hombres";"2016";4732
+"Urola Kosta";"Superiores";"Hombres";"2018";5173
+"Urola Kosta";"Superiores";"Hombres";"2019";5358
+"Urola Kosta";"Superiores";"Hombres";"2020";5612
+"Urola Kosta";"Superiores";"Mujeres";"2010";4476
+"Urola Kosta";"Superiores";"Mujeres";"2013";5344
+"Urola Kosta";"Superiores";"Mujeres";"2014";5658
+"Urola Kosta";"Superiores";"Mujeres";"2015";5867
+"Urola Kosta";"Superiores";"Mujeres";"2016";6142
+"Urola Kosta";"Superiores";"Mujeres";"2018";6696
+"Urola Kosta";"Superiores";"Mujeres";"2019";7070
+"Urola Kosta";"Superiores";"Mujeres";"2020";7502
