@@ -6,4 +6,4 @@ Herramienta desarrollada para el diagnóstico
 * Los principales indicadores analizados durante el trabajo se relacionan entre sí mediante gráficos dinámicos.
 * Utilizando plotly y dash intentamos crear algo similar a un cuadro de mando.
 
-
+![](DASH.png)
